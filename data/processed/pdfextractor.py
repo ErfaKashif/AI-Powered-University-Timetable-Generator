@@ -125,11 +125,12 @@ def extract_timetable(input_pdf, output_csv):
 
     fieldnames = ["page", "day", "room", "time_slot", "cell_text"]
     with output_path.open("w", newline="", encoding="utf-8-sig") as csv_file:
+        total_pages= len(pdf.pages)
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(records)
 
-    print(f"PDF pages processed: {len(pdf.pages)}")
+    print(f"PDF pages processed: {total_pages}")
     print(f"Occupied timetable cells extracted: {len(records)}")
     print(f"CSV saved to: {output_path.resolve()}")
 
