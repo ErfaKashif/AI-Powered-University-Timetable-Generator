@@ -97,11 +97,18 @@ class CSPSolver:
             for m in self.problem.meetings:
                 if m.id in self.unassigned:
                     return self.problem.meeting_by_id[m.id]
-        # MRV: fewest values left. Meetings that failed in earlier restarts count as more constrained.
-        best = min(self.unassigned, key=lambda mid: (self.sizes[mid] / (1 + self.fail_count.get(mid, 0)),
-                                                     -len(self.conflicts[mid]), mid))
+        clash_risk = getattr(self.problem, 'ml_clash_risk', {})
+        # MRV: fewest values left -> highest K-Means clash risk -> highest conflict degree
+        best = min(
+            self.unassigned,
+            key=lambda mid: (
+                self.sizes[mid] / (1 + self.fail_count.get(mid, 0)),
+                -clash_risk.get(mid, 0.0),
+                -len(self.conflicts[mid]),
+                mid
+            )
+        )
         return self.problem.meeting_by_id[best]
-
     def time_score(self, meeting, day, slot):
         """Lower is better. Uses the soft constraints so the first solution is already decent."""
         o = meeting.offering

@@ -11,6 +11,7 @@ import os
 import sys
 import time
 
+from ml.pipeline import apply_ml_to_problem, run_ml_pipeline
 from algorithms.csp import CSPSolver
 from utils.constraints import find_violations, soft_breakdown, soft_cost, room_utilization
 from utils.export import export_timetable
@@ -77,6 +78,9 @@ def run_generate(args):
     started = time.time()
     print(f'Loading data for semester(s) {args.semesters} ...')
     problem = load_problem(DATA_DIR, semesters=args.semesters)
+    ml_out = run_ml_pipeline(DATA_DIR)
+    adjusted = apply_ml_to_problem(problem, ml_out)
+    print(f'  ML pipeline applied: tightened room capacities on {adjusted} meetings using Regression/DT & K-Means')
     print(f'  {len(problem.sections)} sections, {len(problem.offerings)} course offerings, '
           f'{len(problem.meetings)} weekly meetings, {len(problem.teachers)} teachers, {len(problem.rooms)} rooms')
     issues = check_input(problem)
