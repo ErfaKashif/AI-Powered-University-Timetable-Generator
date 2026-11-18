@@ -1,0 +1,100 @@
+teacher,faculty_type,available_days,available_slots,fixed_days,day_off,preferred_days,preferred_slots,note
+Aashir Mahboob,permanent,,,,MON,TUE;WED;THU,1-4,
+Abdul Basit,permanent,,,,FRI,MON;TUE;WED;THU,,
+Abeeha Sattar,permanent,,,,FRI,TUE;WED;THU,,
+Abeer Gauher,permanent,,,MON;TUE;WED;THU,FRI,MON;TUE;WED;THU,5-8,assumed fixed teaching days (= days taught in Fall 2024)
+Abu Zhuran,permanent,,,,FRI,MON;TUE;WED,1-4,
+Abuzar Zafar,permanent,,,,FRI,MON;TUE;WED;THU,5-8,
+Adil Sheraz,permanent,,,,FRI,MON;TUE;THU,5-8,
+Ahsan Ali Abbasi,permanent,,,,THU,TUE,5-8,taught all 5 days in Fall 2024; day off picked where no fixed 1st/3rd sem class
+Ali Fatmi,permanent,,,,FRI,MON;TUE;THU,,
+Ali Naseer Shah,permanent,,,,FRI,TUE;WED;THU,,
+Alina Arshad,permanent,,,,FRI,MON;TUE;WED;THU,,
+Alishba Subhani,permanent,,,,FRI,TUE,5-8,
+Anaum Hamid,permanent,,,MON;TUE;WED;THU,FRI,MON;TUE;WED;THU,,assumed fixed teaching days (= days taught in Fall 2024)
+Asiya Zaheer,permanent,,,,FRI,MON;THU,1-4,
+Atiya Jokhio,permanent,,,MON;TUE;WED,THU,MON;TUE;WED,,assumed fixed teaching days (= days taught in Fall 2024)
+Basit Ali,permanent,,,MON;TUE;WED,FRI,MON;TUE;WED,1-4,assumed fixed teaching days (= days taught in Fall 2024)
+Bilal Ahsan,permanent,,,,FRI,TUE;WED;THU,1-4,
+Bushra Sattar,permanent,,,,FRI,MON;TUE,,
+Dr. Anam Qureshi,permanent,,,,FRI,MON;TUE;THU,,
+Dr. Aqsa Aslam,permanent,,,TUE;WED;THU,FRI,TUE;WED;THU,1-4,assumed fixed teaching days (= days taught in Fall 2024)
+Dr. Atif Saleem,permanent,,,,THU,MON;TUE,,
+Dr. Fahad Sherwani,permanent,,,,FRI,MON;TUE;WED,,
+Dr. Farrukh Salim Shaikh,permanent,,,,FRI,MON;TUE;WED;THU,,
+Dr. Ghufran Ahmed,permanent,,,,FRI,TUE;WED;THU,,
+Dr. Imran Ali Bhatti,permanent,,,,FRI,MON;TUE;THU,,
+Dr. Kamran,permanent,,,,FRI,MON;WED;THU,1-4,
+Dr. Khusro Mian,permanent,,,,TUE,FRI,5-8,
+Dr. Maria Siddiqua,permanent,,,,FRI,MON;TUE;WED,,
+Dr. Muhammad Atif Tahir,visiting,MON;TUE,1-5,,,MON;TUE,1-4,"assumed visiting: only teaches these batches, lectures only, <=2 days"
+Dr. Muhammad Rafi,permanent,,,,FRI,MON;TUE;THU,1-4,
+Dr. Nadeem Kafi Khan,permanent,,,,FRI,TUE;WED;THU,,
+Dr. Nasir Uddin,permanent,,,MON;TUE;WED;THU,FRI,MON;TUE;WED;THU,1-4,assumed fixed teaching days (= days taught in Fall 2024)
+Dr. Nausheen Shoaib,permanent,,,,FRI,MON;TUE;WED;THU,5-8,
+Dr. Nazia,permanent,,,,FRI,MON;TUE;THU,,
+Dr. Nazish Kanwal,permanent,,,MON;WED;THU,FRI,MON;WED;THU,5-8,assumed fixed teaching days (= days taught in Fall 2024)
+Dr. Nouman Durrani,permanent,,,,FRI,TUE;WED;THU,1-4,
+Dr. Shahbaz Siddiqui,permanent,,,,FRI,MON;TUE;WED;THU,1-4,
+Dr. Shahnawaz,permanent,,,,MON,WED;THU,5-8,
+Dr. Sufian Hameed,visiting,TUE;WED,2-8,,,TUE;WED,,"assumed visiting: only teaches these batches, lectures only, <=2 days"
+Dr. Zulfiqar Ali Memon,visiting,MON;TUE,4-8,,,MON;TUE,5-8,"assumed visiting: only teaches these batches, lectures only, <=2 days"
+Engr. Abdul Rahman,permanent,,,MON;TUE;THU,FRI,MON;TUE;THU,,assumed fixed teaching days (= days taught in Fall 2024)
+Engr. Ahsan Khan,permanent,,,,MON,TUE;WED;FRI,,
+Engr. Aqib Noor,permanent,,,,FRI,WED,5-8,
+Engr. Areeb Ahmed,permanent,,,,THU,TUE;FRI,1-4,
+Engr. Asim Mehmood,permanent,,,,MON,TUE;WED;FRI,,
+Engr. Haris Mohsin,permanent,,,,MON,WED;FRI,,
+Engr. Muhammad Afnan,permanent,,,,MON,WED;FRI,5-8,
+Engr. Sadaf Ayesha,permanent,,,,THU,MON;TUE;FRI,,
+Engr. Zakir Hussain,permanent,,,,THU,MON;TUE;WED,,
+Fatima Gado,permanent,,,,THU,MON;WED,1-4,
+Filza Akhlaq,permanent,,,,FRI,TUE;WED,,
+Fizza Aqeel,permanent,,,,FRI,MON;TUE;WED;THU,1-4,
+Hira Tunio,permanent,,,,FRI,TUE;WED;THU,5-8,
+Iqra Fahad,permanent,,,,FRI,WED;THU,1-4,
+Javeria Ali,permanent,,,,FRI,MON;TUE;WED;THU,,
+Javeria Farooq,permanent,,,,FRI,MON;TUE;WED;THU,1-4,
+Kashan Hussain,permanent,,,,TUE,WED;THU,1-4,taught all 5 days in Fall 2024; day off picked where no fixed 1st/3rd sem class
+Khadija Shireen,permanent,,,,TUE,MON;WED;THU,1-4,
+Mairaj,permanent,,,,WED,TUE;FRI,,
+Mehak Mazhar,permanent,,,,FRI,MON;WED,5-8,
+Minhal Raza,permanent,,,,FRI,MON;TUE;WED;THU,,
+Mohd. Ahsan,permanent,,,,THU,MON;TUE,,
+Mohd. Amjad,visiting,MON;FRI,1-4,,,MON;FRI,1-4,"assumed visiting: only teaches these batches, lectures only, <=2 days"
+Moheez ur Rahim,permanent,,,,WED,MON;TUE;THU;FRI,5-8,
+Mubashir,permanent,,,,FRI,MON;WED,5-8,
+Mubashra Fayyaz,permanent,,,,THU,MON;TUE;WED,,taught all 5 days in Fall 2024; day off picked where no fixed 1st/3rd sem class
+Muhammad Ali,permanent,,,,FRI,WED,5-8,
+Muhammad Kashif,permanent,,,,THU,MON;TUE;WED,,taught all 5 days in Fall 2024; day off picked where no fixed 1st/3rd sem class
+Muhammad Monis,permanent,,,,MON,TUE;FRI,5-8,
+Muhammad Nouman Rajput,permanent,,,,TUE,WED,1-4,
+Muhammad Usman,permanent,,,,FRI,TUE;WED;THU,,
+Omer Qureshi,permanent,,,,THU,MON;TUE;WED,,
+Rabia Ansari,visiting,THU,3-8,,,THU,5-8,"assumed visiting: only teaches these batches, lectures only, <=2 days"
+Saeeda Kanwal,permanent,,,,MON,TUE;WED;THU;FRI,5-8,
+Sameer Faisal,permanent,,,,FRI,WED;THU,,
+Sandesh Kumar,permanent,,,,FRI,MON;TUE;WED;THU,,
+Sania Urooj,permanent,,,,FRI,TUE;WED;THU,,
+Shahar Bano,permanent,,,,MON,TUE;WED;THU;FRI,,
+Shaheer,permanent,,,,MON,TUE;THU;FRI,,
+Shoaib Raza,permanent,,,,FRI,MON;WED;THU,,
+Sobia Iftikhar,permanent,,,,FRI,MON;TUE;WED;THU,,
+Sohail Ahmed,permanent,,,,FRI,MON;TUE;WED,5-8,
+Sumaiyah Zahid,permanent,,,,FRI,TUE;WED;THU,1-4,
+Syed Faisal Ali,permanent,,,,FRI,MON;TUE;WED;THU,5-8,
+Syeda Mahnoor Javed,permanent,,,,FRI,MON;WED,1-4,
+Syeda Ravia Ejaz,permanent,,,,FRI,MON;WED,,
+Syeda Rubab Manzar,permanent,,,,FRI,MON;TUE;WED;THU,,
+Ubaid Aftab,visiting,TUE;WED,1-7,,,TUE;WED,,"assumed visiting: only teaches these batches, lectures only, <=2 days"
+Urooj,permanent,,,,FRI,MON;TUE;WED;THU,,
+Usama Antuley,permanent,,,,FRI,MON;TUE;THU,,
+Usama bin Umar,permanent,,,,MON,TUE;THU;FRI,,
+Waseem Rauf,permanent,,,,MON,WED,5-8,
+Yasir Arafat,permanent,,,,FRI,TUE;THU,,
+Yumna Asif,permanent,,,,TUE,MON;THU,,
+Yusra Kaleem,permanent,,,,FRI,TUE;WED;THU,1-4,
+Zain Noureen,permanent,,,,FRI,MON;TUE;WED,,
+Zain Ul Hassan,permanent,,,,FRI,TUE;WED;THU,,
+Zainab Asif,permanent,,,,MON,FRI,1-4,
+Zehra Mukhtiar,permanent,,,,FRI,TUE,5-8,

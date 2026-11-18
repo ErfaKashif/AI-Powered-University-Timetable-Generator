@@ -1,0 +1,63 @@
+room,capacity,kind,capacity_source
+E-1 Academic Block I,50,classroom,timetable
+E-2 Academic Block I,50,classroom,timetable
+E-3 Academic Block I,50,classroom,timetable
+E-4 Academic Block I,50,classroom,timetable
+E-5 Academic Block I,50,classroom,timetable
+E-6 Academic Block I,50,classroom,timetable
+R-11 Academic Block I,50,classroom,timetable
+R-12 Academic Block I,70,classroom,timetable
+R-109 Academic Block I,50,classroom,timetable
+A-1 Academic Block II,50,classroom,timetable
+A-2 Academic Block II,50,classroom,timetable
+A-3 Academic Block II,50,classroom,timetable
+A-6 Academic Block II,50,classroom,timetable
+A-7 Academic Block II,50,classroom,timetable
+A-8 Academic Block II,53,classroom,timetable
+B-9 Academic Block II,53,classroom,timetable
+B-10 Academic Block II,53,classroom,timetable
+B-11 Academic Block II,53,classroom,timetable
+S2 Academic Block I,53,classroom,timetable
+C-12 Academic Block II,50,classroom,timetable
+C-13 Academic Block II,50,classroom,timetable
+C-15 Academic Block II,50,classroom,timetable
+C-14 Academic Block II,50,classroom,timetable
+C-16 Academic Block II,50,classroom,timetable
+C-17 Academic Block II,59,classroom,timetable
+C-18 Academic Block II,50,classroom,timetable
+C-19 Academic Block II,50,classroom,timetable
+C-21 Academic Block II,50,classroom,timetable
+D-22 Academic Block II,50,classroom,timetable
+D-23 Academic Block II,50,classroom,timetable
+D-24 Academic Block II,50,classroom,timetable
+D-26 Academic Block II,50,classroom,timetable
+D-27 Academic Block II,50,classroom,timetable
+D-28 Academic Block II,50,classroom,timetable
+E-29 Academic Block II,52,classroom,timetable
+E-30 Academic Block II,52,classroom,timetable
+E-31 Academic Block II,52,classroom,timetable
+E-32 Academic Block II,52,classroom,timetable
+E-33 Academic Block II,52,classroom,timetable
+E-34 Academic Block II,52,classroom,timetable
+E-35 Academic Block II,52,classroom,timetable
+LLC Academic Block I (R7),50,classroom,timetable
+C-20 Academic Block II,50,classroom,timetable
+Academic Block I LAB-1,56,lab,timetable
+Academic Block I CY LAB-2,48,lab,timetable
+Academic Block I LAB-3,48,lab,timetable
+Academic Block I LAB-4,48,lab,timetable
+Academic Block III LAB-5,54,lab,timetable
+Academic Block II DS LAB-6,56,lab,timetable
+Academic Block II LAB-7,54,lab,timetable
+Academic Block II CY LAB-8,48,lab,timetable
+Academic Block II AI/ML LAB-9,48,lab,timetable
+Academic Block II LAB-10,48,lab,timetable
+Academic Block II LAB-11,48,lab,timetable
+Academic Block II Lab-12,48,lab,timetable
+Academic Block II Electronics Lab,,lab,missing
+A-4 Academic Block II,50,classroom,timetable
+A-5 Academic Block II,50,classroom,timetable
+Academic Block II PHYSICS Lab,,lab,missing
+Academic Block II Project Lab,,lab,missing
+D-25 Academic Block II,50,classroom,timetable
+Academic Block II MPI Lab,,lab,missing

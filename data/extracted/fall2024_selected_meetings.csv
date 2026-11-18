@@ -1,0 +1,537 @@
+day,slot,duration,room,program,semester,sections,course,teacher,type
+MONDAY,1,1,E-1 Academic Block I,BCS,5,C,DAA,Anaum Hamid,lecture
+MONDAY,2,1,E-1 Academic Block I,BCS,5,C,SDA,Engr. Abdul Rahman,lecture
+MONDAY,3,1,E-1 Academic Block I,BCS,5,B,GT,Dr. Nazish Kanwal,lecture
+MONDAY,4,1,E-1 Academic Block I,BCS,5,C,DB,Dr. Anam Qureshi,lecture
+MONDAY,5,1,E-1 Academic Block I,BCS,5,A,DB,Atiya Jokhio,lecture
+MONDAY,6,1,E-1 Academic Block I,BCS,5,A,SDA,Dr. Imran Ali Bhatti,lecture
+MONDAY,7,1,E-1 Academic Block I,BCS,5,B,DB,Atiya Jokhio,lecture
+MONDAY,8,1,E-1 Academic Block I,BCS,5,A,DAA,Syed Faisal Ali,lecture
+MONDAY,1,1,E-2 Academic Block I,BCS,5,E,DB,Fizza Aqeel,lecture
+MONDAY,2,1,E-2 Academic Block I,BCS,5,H,DAA,Abu Zhuran,lecture
+MONDAY,3,1,E-2 Academic Block I,BCS,5,E,DAA,Abu Zhuran,lecture
+MONDAY,4,1,E-2 Academic Block I,BCS,5,E,GT,Urooj,lecture
+MONDAY,5,1,E-2 Academic Block I,BCS,5,B,PDC,Mubashra Fayyaz,lecture
+MONDAY,6,1,E-2 Academic Block I,BCS,5,E,PDC,Dr. Nausheen Shoaib,lecture
+MONDAY,5,1,E-3 Academic Block I,BCS,5,D,DAA,Syed Faisal Ali,lecture
+MONDAY,6,1,E-3 Academic Block I,BCS,5,D,PDC,Muhammad Kashif,lecture
+MONDAY,7,1,E-3 Academic Block I,BCS,5,G,DAA,Anaum Hamid,lecture
+MONDAY,1,1,E-4 Academic Block I,BSE,5,B,DAA,Minhal Raza,lecture
+MONDAY,3,1,E-4 Academic Block I,BCS,5,G,GT,Urooj,lecture
+MONDAY,4,1,E-4 Academic Block I,BCS,5,K,GT,Abdul Basit,lecture
+MONDAY,5,1,E-4 Academic Block I,BCS,5,F,DAA,Dr. Nasir Uddin,lecture
+MONDAY,6,1,E-4 Academic Block I,BCS,5,F,PDC,Mubashra Fayyaz,lecture
+MONDAY,7,1,E-4 Academic Block I,BAI,5,A,TBW,Javeria Ali,lecture
+MONDAY,1,1,E-5 Academic Block I,BCS,5,J,DB,Javeria Farooq,lecture
+MONDAY,2,1,E-5 Academic Block I,BCS,5,J,DAA,Dr. Fahad Sherwani,lecture
+MONDAY,3,1,E-5 Academic Block I,BSE,5,A,SCD,Ali Fatmi,lecture
+MONDAY,4,1,E-5 Academic Block I,BCS,5,J,PDC,Dr. Nausheen Shoaib,lecture
+MONDAY,5,1,E-5 Academic Block I,BCS,5,J,GT,Abdul Basit,lecture
+MONDAY,6,1,E-5 Academic Block I,BCS,5,J,SDA,Engr. Abdul Rahman,lecture
+MONDAY,7,1,E-5 Academic Block I,BAI,5,C,KKR,Adil Sheraz,lecture
+MONDAY,8,1,E-5 Academic Block I,BAI,5,A,ML,Dr. Maria Siddiqua,lecture
+MONDAY,2,1,E-6 Academic Block I,BCS,5,K,DAA,Dr. Farrukh Salim Shaikh,lecture
+MONDAY,3,1,E-6 Academic Block I,BCS,5,K,DB,Zain Noureen,lecture
+MONDAY,4,1,E-6 Academic Block I,BCY,5,A,NPS,Shoaib Raza,lecture
+MONDAY,5,1,E-6 Academic Block I,BCS,5,H,GT,Moheez ur Rahim,lecture
+MONDAY,1,1,R-11 Academic Block I,BSE,5,A,DAA,Dr. Fahad Sherwani,lecture
+MONDAY,2,1,R-11 Academic Block I,BAI,5,A,KKR,Dr. Muhammad Rafi,lecture
+MONDAY,5,1,R-11 Academic Block I,BSE,5,A,DAA,Dr. Fahad Sherwani,lecture
+MONDAY,6,1,R-11 Academic Block I,BSE,5,A,SQE,Syeda Rubab Manzar,lecture
+MONDAY,8,1,R-11 Academic Block I,BCY,5,A,DB,Abeer Gauher,lecture
+MONDAY,2,1,R-12 Academic Block I,BCS,5,B,DAA,Dr. Muhammad Atif Tahir,lecture
+MONDAY,3,1,R-12 Academic Block I,BCY,5,B,DF,Dr. Shahbaz Siddiqui,lecture
+MONDAY,4,1,R-12 Academic Block I,BCS,5,D,GT,Dr. Nazish Kanwal,lecture
+MONDAY,5,1,R-12 Academic Block I,BCS,5,G,DB,Dr. Zulfiqar Ali Memon,lecture
+MONDAY,6,1,R-12 Academic Block I,BCY,5,A,DAA,Sandesh Kumar,lecture
+MONDAY,7,1,R-12 Academic Block I,BAI,5,B,DAA,Minhal Raza,lecture
+MONDAY,2,1,R-109 Academic Block I,BCS,5,L,DAA,Dr. Nasir Uddin,lecture
+MONDAY,3,1,R-109 Academic Block I,BCS,5,L,GT,Moheez ur Rahim,lecture
+MONDAY,6,1,R-109 Academic Block I,BCS,5,L,DB,Zain Noureen,lecture
+MONDAY,1,1,A-1 Academic Block II,BCS,5,B,SDA,Dr. Imran Ali Bhatti,lecture
+MONDAY,4,1,A-1 Academic Block II,BAI,5,A,DAA,Dr. Kamran,lecture
+MONDAY,1,1,A-2 Academic Block II,BAI,5,A,DB,Omer Qureshi,lecture
+MONDAY,2,1,A-2 Academic Block II,BSE,5,A,DB,Alina Arshad,lecture
+MONDAY,3,1,A-2 Academic Block II,BSE,5,B,SQE,Alina Arshad,lecture
+MONDAY,4,1,A-2 Academic Block II,BSE,5,B,TBW,Khadija Shireen,lecture
+MONDAY,5,1,A-2 Academic Block II,BAI,5,B,TBW,Javeria Ali,lecture
+MONDAY,6,1,A-2 Academic Block II,BAI,5,B,KKR,Adil Sheraz,lecture
+MONDAY,2,1,A-3 Academic Block II,BAI,5,B,ML,Dr. Maria Siddiqua,lecture
+MONDAY,4,1,A-3 Academic Block II,BAI,5,B,DB,Basit Ali,lecture
+MONDAY,5,1,A-3 Academic Block II,BAI,5,C,DB,Omer Qureshi,lecture
+MONDAY,1,1,A-6 Academic Block II,BCS,5,M,DB,Basit Ali,lecture
+MONDAY,2,1,A-6 Academic Block II,BCY,5,A,DB,Abeer Gauher,lecture
+MONDAY,5,1,A-6 Academic Block II,BAI,5,A,ML,Dr. Maria Siddiqua,lecture
+MONDAY,1,1,A-7 Academic Block II,BAI,5,C,DAA,Dr. Kamran,lecture
+MONDAY,2,1,A-7 Academic Block II,BAI,5,C,TBW,Javeria Ali,lecture
+MONDAY,2,1,B-9 Academic Block II,BBA,5,A,Basic Eco,Mohd. Amjad,lecture
+MONDAY,3,1,B-9 Academic Block II,BBA,5,A,Con. Beh,Asiya Zaheer,lecture
+MONDAY,5,1,B-9 Academic Block II,BBA,5,A,HRM,Dr. Nazia,lecture
+MONDAY,6,1,B-9 Academic Block II,BBA,5,A,Con. Beh,Asiya Zaheer,lecture
+MONDAY,7,1,B-9 Academic Block II,BBA,5,A,FM,Mohd. Ahsan,lecture
+MONDAY,2,1,C-12 Academic Block II,BEE,5,A,ADC,Dr. Atif Saleem,lecture
+MONDAY,3,1,C-12 Academic Block II,BEE,5,A,ADC,Dr. Atif Saleem,lecture
+MONDAY,5,1,C-12 Academic Block II,BEE,5,B,ADC,Dr. Atif Saleem,lecture
+MONDAY,6,1,C-12 Academic Block II,BEE,5,B,ADC,Dr. Atif Saleem,lecture
+MONDAY,5,1,C-13 Academic Block II,BEE,5,A,DC Net,Engr. Sadaf Ayesha,lecture
+MONDAY,6,1,C-13 Academic Block II,BEE,5,A,DC Net,Engr. Sadaf Ayesha,lecture
+MONDAY,1,1,C-15 Academic Block II,BEE,5,B,DC Net,Engr. Zakir Hussain,lecture
+MONDAY,2,1,C-15 Academic Block II,BEE,5,B,DC Net,Engr. Zakir Hussain,lecture
+MONDAY,2,1,C-21 Academic Block II,BCY,5,B,IS,Usama Antuley,lecture
+MONDAY,7,1,D-23 Academic Block II,BCY,5,A,IS,Usama Antuley,lecture
+MONDAY,1,3,Academic Block I CY LAB-2,BCS,5,A,DB,Syeda Mahnoor Javed,lab
+MONDAY,4,1,Academic Block I CY LAB-2,BCS,5,M,SDA,Fizza Aqeel,lecture
+MONDAY,5,1,Academic Block I CY LAB-2,BCS,5,L,SDA,Javeria Farooq,lecture
+MONDAY,6,3,Academic Block I CY LAB-2,BCS,5,C,DB,Sohail Ahmed,lab
+MONDAY,6,3,Academic Block I LAB-3,BCS,5,M,DB,Mubashir,lab
+MONDAY,1,3,Academic Block I LAB-4,BCS,5,D,DB,Bushra Sattar,lab
+MONDAY,6,3,Academic Block I LAB-4,BSE,5,B,DB,Syeda Ravia Ejaz,lab
+MONDAY,1,3,Academic Block II CY LAB-8,BCS,5,F,DB,Fatima Gado,lab
+MONDAY,6,3,Academic Block II CY LAB-8,BCS,5,K,DB,Mehak Mazhar,lab
+MONDAY,2,1,Academic Block II AI/ML LAB-9,BCS,5,G,SDA,Syeda Rubab Manzar,lecture
+MONDAY,3,1,Academic Block II AI/ML LAB-9,BCS,5,H,SDA,Syeda Rubab Manzar,lecture
+MONDAY,6,3,Academic Block II AI/ML LAB-9,BCY,5,B,DB,Yumna Asif,lab
+MONDAY,7,1,Academic Block II LAB-10,BCS,5,E,SDA,Sobia Iftikhar,lecture
+MONDAY,8,1,Academic Block II LAB-10,BCS,5,F,SDA,Sobia Iftikhar,lecture
+MONDAY,4,1,Academic Block II LAB-11,BCY,5,A,ETHH,Abuzar Zafar,lecture
+TUESDAY,1,1,E-1 Academic Block I,BCS,7,B,PPIT,Anaum Hamid,lecture
+TUESDAY,2,1,E-1 Academic Block I,BCS,7,A,FSPM,Ubaid Aftab,lecture
+TUESDAY,3,1,E-1 Academic Block I,BCS,7,C,PPIT,Kashan Hussain,lecture
+TUESDAY,4,1,E-1 Academic Block I,BSE,7,A,IS,Hira Tunio,lecture
+TUESDAY,6,1,E-1 Academic Block I,BCS,7,B,FSPM,Ubaid Aftab,lecture
+TUESDAY,7,1,E-1 Academic Block I,BSE,7,B,IS,Hira Tunio,lecture
+TUESDAY,1,1,E-2 Academic Block I,BCS,7,A,PPIT,Kashan Hussain,lecture
+TUESDAY,2,1,E-2 Academic Block I,BCS,7,A,WP,Ali Fatmi,lecture
+TUESDAY,3,1,E-2 Academic Block I,BCS,7,E,IS,Dr. Sufian Hameed,lecture
+TUESDAY,4,1,E-2 Academic Block I,BCY,7,A,SSD,Abuzar Zafar,lecture
+TUESDAY,5,1,E-2 Academic Block I,BCS,5,J,GT,Abdul Basit,lecture
+TUESDAY,6,1,E-2 Academic Block I,BCY,7,B,SSD,Abuzar Zafar,lecture
+TUESDAY,8,1,E-2 Academic Block I,BCS,5,J,PDC,Dr. Nausheen Shoaib,lecture
+TUESDAY,1,1,E-3 Academic Block I,BCS,7,E,PPIT,Sobia Iftikhar,lecture
+TUESDAY,3,1,E-3 Academic Block I,BCS,7,D,PPIT,Sania Urooj,lecture
+TUESDAY,4,1,E-3 Academic Block I,BCS,7,A,IS,Dr. Nausheen Shoaib,lecture
+TUESDAY,5,1,E-3 Academic Block I,BCY,5,A,ETHH,Abuzar Zafar,lecture
+TUESDAY,6,1,E-3 Academic Block I,BCS,7,B,RS,Zain Ul Hassan,lecture
+TUESDAY,1,1,E-4 Academic Block I,BCS,7,G,PPIT,Sania Urooj,lecture
+TUESDAY,3,1,E-4 Academic Block I,BCS,7,F,PPIT,Shahar Bano,lecture
+TUESDAY,4,1,E-4 Academic Block I,BAI,7,B,CV,Bilal Ahsan,lecture
+TUESDAY,6,1,E-4 Academic Block I,BCS,7,B,IPT,Abeeha Sattar,lecture
+TUESDAY,7,1,E-4 Academic Block I,BCS,7,F,IS,Dr. Farrukh Salim Shaikh,lecture
+TUESDAY,1,1,E-5 Academic Block I,BCS,7,H,PPIT,Shahar Bano,lecture
+TUESDAY,2,1,E-5 Academic Block I,BCS,7,A,QC,Sumaiyah Zahid,lecture
+TUESDAY,3,1,E-5 Academic Block I,BCY,7,A,IA,Ali Naseer Shah,lecture
+TUESDAY,4,1,E-5 Academic Block I,BCS,7,K,IS,Dr. Aqsa Aslam,lecture
+TUESDAY,5,1,E-5 Academic Block I,BCS,5,L+M,PDC,Syed Faisal Ali,lecture
+TUESDAY,6,1,E-5 Academic Block I,BCS,5,D,DAA,Syed Faisal Ali,lecture
+TUESDAY,7,1,E-5 Academic Block I,BCY,7,B,IA,Ali Naseer Shah,lecture
+TUESDAY,1,1,E-6 Academic Block I,BCY,7,A,PPIT,Bilal Ahsan,lecture
+TUESDAY,2,1,E-6 Academic Block I,BCS,7,A,RS,Zain Ul Hassan,lecture
+TUESDAY,3,1,E-6 Academic Block I,BCS,7,J,PPIT,Aashir Mahboob,lecture
+TUESDAY,4,1,E-6 Academic Block I,BCS,7,G,IS,Muhammad Usman,lecture
+TUESDAY,5,1,E-6 Academic Block I,BAI,5,C,ML,Sania Urooj,lecture
+TUESDAY,6,1,E-6 Academic Block I,BAI,5,C,DB,Omer Qureshi,lecture
+TUESDAY,7,1,E-6 Academic Block I,BCS,5,H,SDA,Syeda Rubab Manzar,lecture
+TUESDAY,8,1,E-6 Academic Block I,BAI,5,C,KKR,Adil Sheraz,lecture
+TUESDAY,1,1,R-11 Academic Block I,BCY,7,B,PPIT,Sandesh Kumar,lecture
+TUESDAY,4,1,R-11 Academic Block I,BAI,7,A,NLP,Saeeda Kanwal,lecture
+TUESDAY,5,1,R-11 Academic Block I,BSE,5,A,DB,Alina Arshad,lecture
+TUESDAY,6,1,R-11 Academic Block I,BSE,5,A,SQE,Syeda Rubab Manzar,lecture
+TUESDAY,7,1,R-11 Academic Block I,BCS,5,A,SDA,Dr. Imran Ali Bhatti,lecture
+TUESDAY,8,1,R-11 Academic Block I,BCS,5,A,GT,Urooj,lecture
+TUESDAY,1,1,R-12 Academic Block I,BCS,7,K,PPIT,Aashir Mahboob,lecture
+TUESDAY,2,1,R-12 Academic Block I,BCS,5,B,DAA,Dr. Muhammad Atif Tahir,lecture
+TUESDAY,4,1,R-12 Academic Block I,BCS,5,B,DAA,Dr. Muhammad Atif Tahir,lecture
+TUESDAY,5,1,R-12 Academic Block I,BCS,5,G,DB,Dr. Zulfiqar Ali Memon,lecture
+TUESDAY,6,1,R-12 Academic Block I,BCS,5,A,PDC,Dr. Nadeem Kafi Khan,lecture
+TUESDAY,7,1,R-12 Academic Block I,BCS,5,G,DB,Dr. Zulfiqar Ali Memon,lecture
+TUESDAY,8,1,R-12 Academic Block I,BCS,5,G,PDC,Dr. Ghufran Ahmed,lecture
+TUESDAY,1,1,R-109 Academic Block I,BSE,7,A,PPIT,Yusra Kaleem,lecture
+TUESDAY,2,1,R-109 Academic Block I,BCS,5,D,SDA,Engr. Abdul Rahman,lecture
+TUESDAY,3,1,R-109 Academic Block I,BAI,7,A,CV,Bilal Ahsan,lecture
+TUESDAY,4,1,R-109 Academic Block I,BCS,7,D,IS,Yusra Kaleem,lecture
+TUESDAY,5,1,R-109 Academic Block I,BCS,5,D,DB,Dr. Anam Qureshi,lecture
+TUESDAY,6,1,R-109 Academic Block I,BAI,7,B,NLP,Saeeda Kanwal,lecture
+TUESDAY,7,1,R-109 Academic Block I,BCS,7,J,IS,Yusra Kaleem,lecture
+TUESDAY,1,1,A-1 Academic Block II,BSE,7,B,PPIT,Dr. Maria Siddiqua,lecture
+TUESDAY,2,1,A-1 Academic Block II,BCY,7,A+B,PDC,Dr. Ghufran Ahmed,lecture
+TUESDAY,4,1,A-1 Academic Block II,BCS,7,B,IS,Dr. Farrukh Salim Shaikh,lecture
+TUESDAY,5,1,A-1 Academic Block II,BCS,5,E,PDC,Dr. Nausheen Shoaib,lecture
+TUESDAY,6,1,A-1 Academic Block II,BCS,5,E,SDA,Sobia Iftikhar,lecture
+TUESDAY,1,1,A-2 Academic Block II,BAI,7,A,FOM,Ahsan Ali Abbasi,lecture
+TUESDAY,2,1,A-2 Academic Block II,BAI,5,A,KKR,Dr. Muhammad Rafi,lecture
+TUESDAY,3,1,A-2 Academic Block II,BCS,5,F,DAA,Dr. Nasir Uddin,lecture
+TUESDAY,5,1,A-2 Academic Block II,BCS,5,F,DB,Fizza Aqeel,lecture
+TUESDAY,7,1,A-2 Academic Block II,BCS,5,E,GT,Urooj,lecture
+TUESDAY,1,1,A-3 Academic Block II,BCS,7,C,IS,Dr. Aqsa Aslam,lecture
+TUESDAY,2,1,A-3 Academic Block II,BCS,5,A,DB,Atiya Jokhio,lecture
+TUESDAY,3,1,A-3 Academic Block II,BCS,5,A,DAA,Syed Faisal Ali,lecture
+TUESDAY,4,1,A-3 Academic Block II,BCS,5,L,DAA,Dr. Nasir Uddin,lecture
+TUESDAY,5,1,A-3 Academic Block II,BCS,5,H,DB,Javeria Farooq,lecture
+TUESDAY,7,1,A-3 Academic Block II,BCS,5,D,PDC,Muhammad Kashif,lecture
+TUESDAY,1,1,A-5 Academic Block II,BCS,5,F,PDC,Mubashra Fayyaz,lecture
+TUESDAY,2,1,A-5 Academic Block II,BCS,5,C,DAA,Anaum Hamid,lecture
+TUESDAY,3,1,A-5 Academic Block II,BCS,5,B,DB,Atiya Jokhio,lecture
+TUESDAY,4,1,A-5 Academic Block II,BCS,5,M,DAA,Dr. Fahad Sherwani,lecture
+TUESDAY,6,1,A-5 Academic Block II,BCS,5,K,DAA,Dr. Farrukh Salim Shaikh,lecture
+TUESDAY,7,1,A-5 Academic Block II,BCS,5,K,PDC,Dr. Nadeem Kafi Khan,lecture
+TUESDAY,8,1,A-5 Academic Block II,BCS,5,K,DB,Zain Noureen,lecture
+TUESDAY,3,1,A-6 Academic Block II,BCS,5,C,DB,Dr. Anam Qureshi,lecture
+TUESDAY,4,1,A-6 Academic Block II,BCY,5,A,DF,Dr. Shahbaz Siddiqui,lecture
+TUESDAY,5,1,A-6 Academic Block II,BCS,5,C,PDC,Muhammad Kashif,lecture
+TUESDAY,3,1,A-7 Academic Block II,BSE,5,B,SCD,Ali Fatmi,lecture
+TUESDAY,4,1,A-7 Academic Block II,BSE,5,B,DB,Alina Arshad,lecture
+TUESDAY,7,1,A-7 Academic Block II,BCY,5,B,DAA,Sandesh Kumar,lecture
+TUESDAY,1,1,A-8 Academic Block II,BSE,5,B,DAA,Minhal Raza,lecture
+TUESDAY,2,1,A-8 Academic Block II,BCS,5,H,PDC,Muhammad Kashif,lecture
+TUESDAY,3,1,A-8 Academic Block II,BCS,5,E,DB,Fizza Aqeel,lecture
+TUESDAY,7,1,A-8 Academic Block II,BAI,5,A,ML,Dr. Maria Siddiqua,lecture
+TUESDAY,8,1,A-8 Academic Block II,BAI,5,A,DB,Omer Qureshi,lecture
+TUESDAY,1,1,B-9 Academic Block II,BBA,5,A,Database Systems,Shaheer,lecture
+TUESDAY,2,1,B-9 Academic Block II,BBA,5,A,FM,Mohd. Ahsan,lecture
+TUESDAY,3,1,B-9 Academic Block II,BBA,5,A,FM,Mohd. Ahsan,lecture
+TUESDAY,4,1,B-9 Academic Block II,BBA,5,A,HRM,Dr. Nazia,lecture
+TUESDAY,5,1,B-9 Academic Block II,BCS,5,A,DE,Mairaj,lecture
+TUESDAY,4,1,B-10 Academic Block II,BCS,5,F,GT,Abdul Basit,lecture
+TUESDAY,3,1,B-11 Academic Block II,BCY,5,B,DB,Abeer Gauher,lecture
+TUESDAY,5,1,C-12 Academic Block II,BEE,5,A+B,EMT,Engr. Ahsan Khan,lecture
+TUESDAY,6,1,C-12 Academic Block II,BEE,7,A,AML,Engr. Ahsan Khan,lecture
+TUESDAY,1,1,C-13 Academic Block II,BEE,5,B,DC Net,Engr. Zakir Hussain,lecture
+TUESDAY,6,1,C-13 Academic Block II,BEE,5,A,ADC,Dr. Atif Saleem,lecture
+TUESDAY,7,1,C-13 Academic Block II,BEE,5,A,AT,Engr. Asim Mehmood,lecture
+TUESDAY,3,1,C-15 Academic Block II,BEE,5,B,ADC,Dr. Atif Saleem,lecture
+TUESDAY,5,1,C-15 Academic Block II,BEE,7,A,CA,Engr. Asim Mehmood,lecture
+TUESDAY,3,1,S2 Academic Block I,BSE,7,A+B,FSPM,Minhal Raza,lecture
+TUESDAY,2,1,C-14 Academic Block II,BCS,5,E,DAA,Abu Zhuran,lecture
+TUESDAY,3,1,C-14 Academic Block II,BCS,5,H,DAA,Abu Zhuran,lecture
+TUESDAY,4,1,C-14 Academic Block II,BAI,5,B,ML,Dr. Maria Siddiqua,lecture
+TUESDAY,6,1,C-14 Academic Block II,BSE,5,B,SCD,Ali Fatmi,lecture
+TUESDAY,7,1,C-14 Academic Block II,BSE,5,B,SQE,Alina Arshad,lecture
+TUESDAY,1,1,C-16 Academic Block II,BCS,5,J,DAA,Dr. Fahad Sherwani,lecture
+TUESDAY,2,1,C-16 Academic Block II,BCS,5,J,DB,Javeria Farooq,lecture
+TUESDAY,3,1,C-16 Academic Block II,BCS,5,J,DAA,Dr. Fahad Sherwani,lecture
+TUESDAY,4,1,C-16 Academic Block II,BEE,7,A,TBW,Javeria Ali,lecture
+TUESDAY,6,1,C-16 Academic Block II,BCS,5,H,GT,Moheez ur Rahim,lecture
+TUESDAY,7,1,C-16 Academic Block II,BSE,5,A,SCD,Ali Fatmi,lecture
+TUESDAY,1,1,C-17 Academic Block II,BCS,5,L,GT,Moheez ur Rahim,lecture
+TUESDAY,2,1,C-17 Academic Block II,BCS,5,L,DB,Zain Noureen,lecture
+TUESDAY,3,1,C-17 Academic Block II,BCS,7,H,IS,Muhammad Usman,lecture
+TUESDAY,8,1,C-17 Academic Block II,BCY,5,B,IS,Usama Antuley,lecture
+TUESDAY,1,1,C-18 Academic Block II,BCS,5,M,GT,Urooj,lecture
+TUESDAY,2,1,C-18 Academic Block II,BCS,5,M,DB,Basit Ali,lecture
+TUESDAY,1,1,C-19 Academic Block II,BCY,5,A,IS,Usama Antuley,lecture
+TUESDAY,2,1,C-19 Academic Block II,BCY,5,A,DAA,Sandesh Kumar,lecture
+TUESDAY,1,1,C-21 Academic Block II,BCY,5,B,DF,Dr. Shahbaz Siddiqui,lecture
+TUESDAY,2,1,C-21 Academic Block II,BAI,5,B,TBW,Javeria Ali,lecture
+TUESDAY,3,1,C-21 Academic Block II,BAI,5,B,KKR,Adil Sheraz,lecture
+TUESDAY,2,1,E-29 Academic Block II,BEE,5,B,AT,Engr. Asim Mehmood,lecture
+TUESDAY,5,1,Academic Block I LAB-1,BCS,7,A,BC,Dr. Shahbaz Siddiqui,lecture
+TUESDAY,2,1,Academic Block I CY LAB-2,BCS,7,A,DS,Dr. Nouman Durrani,lecture
+TUESDAY,3,1,Academic Block I CY LAB-2,BCS,5,D,SDA,Engr. Abdul Rahman,lecture
+TUESDAY,6,3,Academic Block I CY LAB-2,BCY,7,A,SSD,Abeer Gauher,lab
+TUESDAY,1,3,Academic Block I LAB-3,BAI,5,C,ML,Usama bin Umar,lab
+TUESDAY,6,3,Academic Block I LAB-3,BCS,5,B,DB,Bushra Sattar,lab
+TUESDAY,1,3,Academic Block I LAB-4,BSE,5,A,SCD,Yasir Arafat,lab
+TUESDAY,6,1,Academic Block I LAB-4,BCS,5,C,SDA,Engr. Abdul Rahman,lecture
+TUESDAY,7,1,Academic Block I LAB-4,BCS,5,J,SDA,Engr. Abdul Rahman,lecture
+TUESDAY,1,3,Academic Block III LAB-5,BCS,5,G,DB,Filza Akhlaq,lab
+TUESDAY,5,1,Academic Block III LAB-5,BCS,7,A,WP,Ali Fatmi,lecture
+TUESDAY,6,3,Academic Block III LAB-5,BCS,5,L,OS,Muhammad Monis,lab
+TUESDAY,6,3,Academic Block II DS LAB-6,BBA,5,A,FM,Zehra Mukhtiar,lab
+TUESDAY,6,3,Academic Block II CY LAB-8,BAI,5,B,ML,Alishba Subhani,lab
+TUESDAY,6,3,Academic Block II AI/ML LAB-9,BAI,7,A,CV,Sohail Ahmed,lab
+TUESDAY,5,1,Academic Block II Lab-12,BCS,7,A,IPT,Abeeha Sattar,lecture
+TUESDAY,1,3,Academic Block II PHYSICS Lab,BEE,5,A,ADC,Engr. Sadaf Ayesha,lab
+TUESDAY,6,3,Academic Block II PHYSICS Lab,BEE,5,B,ADC,Engr. Sadaf Ayesha,lab
+TUESDAY,1,3,Academic Block II Project Lab,BEE,7,A,AML,Engr. Areeb Ahmed,lab
+WEDNESDAY,1,1,E-1 Academic Block I,BCS,7,C,PPIT,Kashan Hussain,lecture
+WEDNESDAY,2,1,E-1 Academic Block I,BCS,7,A,FSPM,Ubaid Aftab,lecture
+WEDNESDAY,3,1,E-1 Academic Block I,BCS,7,B,PPIT,Anaum Hamid,lecture
+WEDNESDAY,4,1,E-1 Academic Block I,BSE,7,B,IS,Hira Tunio,lecture
+WEDNESDAY,5,1,E-1 Academic Block I,BSE,5,A,SQE,Syeda Rubab Manzar,lecture
+WEDNESDAY,6,1,E-1 Academic Block I,BCS,5,G,SDA,Syeda Rubab Manzar,lecture
+WEDNESDAY,7,1,E-1 Academic Block I,BSE,7,A,IS,Hira Tunio,lecture
+WEDNESDAY,1,1,E-2 Academic Block I,BCS,7,D,PPIT,Sania Urooj,lecture
+WEDNESDAY,3,1,E-2 Academic Block I,BCS,7,A,PPIT,Kashan Hussain,lecture
+WEDNESDAY,4,1,E-2 Academic Block I,BCS,7,A,IS,Dr. Nausheen Shoaib,lecture
+WEDNESDAY,6,1,E-2 Academic Block I,BCS,7,B,FSPM,Ubaid Aftab,lecture
+WEDNESDAY,7,1,E-2 Academic Block I,BCS,7,B,IS,Dr. Farrukh Salim Shaikh,lecture
+WEDNESDAY,1,1,E-3 Academic Block I,BCS,7,K,IS,Dr. Aqsa Aslam,lecture
+WEDNESDAY,2,1,E-3 Academic Block I,BCS,7,A,DS,Dr. Nouman Durrani,lecture
+WEDNESDAY,4,1,E-3 Academic Block I,BCS,7,C,IS,Dr. Aqsa Aslam,lecture
+WEDNESDAY,5,1,E-3 Academic Block I,BCS,5,F,SDA,Sobia Iftikhar,lecture
+WEDNESDAY,6,1,E-3 Academic Block I,BCS,7,B,RS,Zain Ul Hassan,lecture
+WEDNESDAY,1,1,E-4 Academic Block I,BCS,7,F,PPIT,Shahar Bano,lecture
+WEDNESDAY,2,1,E-4 Academic Block I,BAI,5,B,DB,Basit Ali,lecture
+WEDNESDAY,3,1,E-4 Academic Block I,BCS,7,E,PPIT,Sobia Iftikhar,lecture
+WEDNESDAY,4,1,E-4 Academic Block I,BCS,7,H,IS,Muhammad Usman,lecture
+WEDNESDAY,5,1,E-4 Academic Block I,BCS,7,B,FSPM,Ubaid Aftab,lecture
+WEDNESDAY,7,1,E-4 Academic Block I,BCS,7,E,IS,Dr. Sufian Hameed,lecture
+WEDNESDAY,1,1,E-5 Academic Block I,BCY,7,B,PPIT,Sandesh Kumar,lecture
+WEDNESDAY,2,1,E-5 Academic Block I,BCS,7,A,QC,Sumaiyah Zahid,lecture
+WEDNESDAY,3,1,E-5 Academic Block I,BCS,7,H,PPIT,Shahar Bano,lecture
+WEDNESDAY,4,1,E-5 Academic Block I,BCS,7,F,IS,Dr. Farrukh Salim Shaikh,lecture
+WEDNESDAY,6,1,E-5 Academic Block I,BCY,7,A,SSD,Abuzar Zafar,lecture
+WEDNESDAY,1,1,E-6 Academic Block I,BCY,7,A,PPIT,Bilal Ahsan,lecture
+WEDNESDAY,2,1,E-6 Academic Block I,BCS,7,A,IPT,Abeeha Sattar,lecture
+WEDNESDAY,4,1,E-6 Academic Block I,BCY,5,A,NPS,Shoaib Raza,lecture
+WEDNESDAY,5,1,E-6 Academic Block I,BCS,5,G,GT,Urooj,lecture
+WEDNESDAY,6,1,E-6 Academic Block I,BAI,7,A,NLP,Saeeda Kanwal,lecture
+WEDNESDAY,8,1,E-6 Academic Block I,BCS,5,A,TOA,Shahar Bano,lecture
+WEDNESDAY,1,1,R-11 Academic Block I,BCS,7,J,PPIT,Aashir Mahboob,lecture
+WEDNESDAY,2,1,R-11 Academic Block I,BCY,7,B,SSD,Abuzar Zafar,lecture
+WEDNESDAY,3,1,R-11 Academic Block I,BCS,7,K,PPIT,Aashir Mahboob,lecture
+WEDNESDAY,4,1,R-11 Academic Block I,BCS,7,J,IS,Yusra Kaleem,lecture
+WEDNESDAY,5,1,R-11 Academic Block I,BCS,5,C,PDC,Muhammad Kashif,lecture
+WEDNESDAY,6,1,R-11 Academic Block I,BCY,5,B,DB,Abeer Gauher,lecture
+WEDNESDAY,7,1,R-11 Academic Block I,BCS,5,G,DAA,Anaum Hamid,lecture
+WEDNESDAY,1,1,R-12 Academic Block I,BSE,5,B,TBW,Khadija Shireen,lecture
+WEDNESDAY,2,1,R-12 Academic Block I,BCY,7,A,IA,Ali Naseer Shah,lecture
+WEDNESDAY,3,1,R-12 Academic Block I,BCS,5,G,PDC,Dr. Ghufran Ahmed,lecture
+WEDNESDAY,4,1,R-12 Academic Block I,BCY,7,A+B,PDC,Dr. Ghufran Ahmed,lecture
+WEDNESDAY,5,1,R-12 Academic Block I,BCS,5,J,GT,Abdul Basit,lecture
+WEDNESDAY,6,1,R-12 Academic Block I,BCS,5,D,DAA,Syed Faisal Ali,lecture
+WEDNESDAY,7,1,R-12 Academic Block I,BCS,7,D,IS,Yusra Kaleem,lecture
+WEDNESDAY,1,1,R-109 Academic Block I,BAI,7,A,CT,Dr. Shahnawaz,lecture
+WEDNESDAY,2,1,R-109 Academic Block I,BAI,7,B,CV,Bilal Ahsan,lecture
+WEDNESDAY,3,1,R-109 Academic Block I,BCS,7,G,PPIT,Sania Urooj,lecture
+WEDNESDAY,4,1,R-109 Academic Block I,BCS,7,E,IS,Dr. Sufian Hameed,lecture
+WEDNESDAY,5,1,R-109 Academic Block I,BSE,5,B,SQE,Alina Arshad,lecture
+WEDNESDAY,6,1,R-109 Academic Block I,BCS,5,E,DB,Fizza Aqeel,lecture
+WEDNESDAY,7,1,R-109 Academic Block I,BSE,5,A,DAA,Dr. Fahad Sherwani,lecture
+WEDNESDAY,1,1,A-1 Academic Block II,BSE,7,B,PPIT,Dr. Maria Siddiqua,lecture
+WEDNESDAY,2,1,A-1 Academic Block II,BSE,7,B,PPIT,Dr. Maria Siddiqua,lecture
+WEDNESDAY,3,1,A-1 Academic Block II,BCY,7,B,IA,Ali Naseer Shah,lecture
+WEDNESDAY,5,1,A-1 Academic Block II,BCS,5,M,DAA,Dr. Fahad Sherwani,lecture
+WEDNESDAY,6,1,A-1 Academic Block II,BCS,5,M,GT,Urooj,lecture
+WEDNESDAY,2,1,A-2 Academic Block II,BCS,5,A,GT,Urooj,lecture
+WEDNESDAY,3,1,A-2 Academic Block II,BCS,5,B,PDC,Mubashra Fayyaz,lecture
+WEDNESDAY,4,1,A-2 Academic Block II,BAI,7,A,CV,Bilal Ahsan,lecture
+WEDNESDAY,6,1,A-2 Academic Block II,BSE,5,A,TBW,Khadija Shireen,lecture
+WEDNESDAY,7,1,A-2 Academic Block II,BCY,5,B,DAA,Sandesh Kumar,lecture
+WEDNESDAY,1,1,A-3 Academic Block II,BCS,5,L,SDA,Javeria Farooq,lecture
+WEDNESDAY,2,1,A-3 Academic Block II,BCS,5,B,DB,Atiya Jokhio,lecture
+WEDNESDAY,4,1,A-3 Academic Block II,BCS,5,A,DB,Atiya Jokhio,lecture
+WEDNESDAY,5,1,A-3 Academic Block II,BCS,5,A,DAA,Syed Faisal Ali,lecture
+WEDNESDAY,6,1,A-3 Academic Block II,BCS,5,A,PDC,Dr. Nadeem Kafi Khan,lecture
+WEDNESDAY,1,1,A-5 Academic Block II,BCS,5,F,DAA,Dr. Nasir Uddin,lecture
+WEDNESDAY,2,1,A-5 Academic Block II,BCS,5,F,GT,Abdul Basit,lecture
+WEDNESDAY,3,1,A-5 Academic Block II,BCY,5,A,DAA,Sandesh Kumar,lecture
+WEDNESDAY,4,1,A-5 Academic Block II,BCS,5,H,DAA,Abu Zhuran,lecture
+WEDNESDAY,5,1,A-5 Academic Block II,BCS,5,E,DAA,Abu Zhuran,lecture
+WEDNESDAY,1,1,A-6 Academic Block II,BCS,5,K,PDC,Dr. Nadeem Kafi Khan,lecture
+WEDNESDAY,2,1,A-6 Academic Block II,BCS,5,K,SDA,Iqra Fahad,lecture
+WEDNESDAY,3,1,A-6 Academic Block II,BCS,5,L,DB,Zain Noureen,lecture
+WEDNESDAY,4,1,A-6 Academic Block II,BCS,5,K,DB,Zain Noureen,lecture
+WEDNESDAY,5,1,A-6 Academic Block II,BCS,5,K,DAA,Dr. Farrukh Salim Shaikh,lecture
+WEDNESDAY,7,1,A-6 Academic Block II,BCS,5,K,SDA,Iqra Fahad,lecture
+WEDNESDAY,1,1,A-7 Academic Block II,BCY,5,A,DF,Dr. Shahbaz Siddiqui,lecture
+WEDNESDAY,2,1,A-7 Academic Block II,BCY,5,A,DB,Abeer Gauher,lecture
+WEDNESDAY,1,1,A-8 Academic Block II,BCS,7,G,IS,Muhammad Usman,lecture
+WEDNESDAY,2,1,A-8 Academic Block II,BSE,5,B,DB,Alina Arshad,lecture
+WEDNESDAY,3,1,A-8 Academic Block II,BSE,5,B,DB,Alina Arshad,lecture
+WEDNESDAY,4,1,B-9 Academic Block II,BAI,5,B,ML,Dr. Maria Siddiqua,lecture
+WEDNESDAY,4,1,B-10 Academic Block II,BAI,7,B,NLP,Saeeda Kanwal,lecture
+WEDNESDAY,3,1,S2 Academic Block I,BSE,7,A+B,FSPM,Minhal Raza,lecture
+WEDNESDAY,2,1,C-12 Academic Block II,BEE,5,A,AT,Engr. Asim Mehmood,lecture
+WEDNESDAY,3,1,C-12 Academic Block II,BEE,5,A+B,EMT,Engr. Ahsan Khan,lecture
+WEDNESDAY,4,1,C-12 Academic Block II,BEE,5,A+B,EMT,Engr. Ahsan Khan,lecture
+WEDNESDAY,5,1,C-12 Academic Block II,BEE,7,A,AML,Engr. Ahsan Khan,lecture
+WEDNESDAY,7,1,C-13 Academic Block II,BEE,5,A,EDC,Engr. Aqib Noor,lecture
+WEDNESDAY,3,1,C-15 Academic Block II,BEE,7,A,CA,Engr. Asim Mehmood,lecture
+WEDNESDAY,5,1,C-15 Academic Block II,BEE,5,A+B,MPI,Engr. Haris Mohsin,lecture
+WEDNESDAY,1,1,C-16 Academic Block II,BCS,5,M,DAA,Dr. Fahad Sherwani,lecture
+WEDNESDAY,2,1,C-16 Academic Block II,BCS,5,M,SDA,Fizza Aqeel,lecture
+WEDNESDAY,3,1,C-16 Academic Block II,BCS,5,F,DB,Fizza Aqeel,lecture
+WEDNESDAY,1,1,C-17 Academic Block II,BAI,5,A,DB,Omer Qureshi,lecture
+WEDNESDAY,2,1,C-17 Academic Block II,BAI,5,A,DAA,Dr. Kamran,lecture
+WEDNESDAY,4,1,C-17 Academic Block II,BCS,5,D,GT,Dr. Nazish Kanwal,lecture
+WEDNESDAY,5,1,C-17 Academic Block II,BCS,5,B,GT,Dr. Nazish Kanwal,lecture
+WEDNESDAY,6,1,C-17 Academic Block II,BCS,5,C,GT,Dr. Nazish Kanwal,lecture
+WEDNESDAY,1,1,C-18 Academic Block II,BAI,5,B,DAA,Minhal Raza,lecture
+WEDNESDAY,2,1,C-18 Academic Block II,BCS,5,H,DB,Javeria Farooq,lecture
+WEDNESDAY,3,1,C-18 Academic Block II,BCS,5,H,PDC,Muhammad Kashif,lecture
+WEDNESDAY,4,1,C-18 Academic Block II,BCS,5,L,SDA,Javeria Farooq,lecture
+WEDNESDAY,5,1,C-18 Academic Block II,BAI,5,B,DB,Basit Ali,lecture
+WEDNESDAY,1,1,C-19 Academic Block II,BAI,5,C,DAA,Dr. Kamran,lecture
+WEDNESDAY,2,1,C-19 Academic Block II,BCS,7,A,RS,Zain Ul Hassan,lecture
+WEDNESDAY,3,1,C-19 Academic Block II,BCS,5,M,DB,Basit Ali,lecture
+WEDNESDAY,4,1,C-19 Academic Block II,BAI,5,A,TBW,Javeria Ali,lecture
+WEDNESDAY,3,1,C-21 Academic Block II,BAI,5,C,DB,Omer Qureshi,lecture
+WEDNESDAY,4,1,C-21 Academic Block II,BAI,5,C,ML,Sania Urooj,lecture
+WEDNESDAY,2,1,D-24 Academic Block II,BSE,7,A,PPIT,Yusra Kaleem,lecture
+WEDNESDAY,1,1,C-20 Academic Block II,BEE,7,A,TBW,Javeria Ali,lecture
+WEDNESDAY,2,1,C-20 Academic Block II,BEE,7,A,TBW,Javeria Ali,lecture
+WEDNESDAY,6,3,Academic Block I LAB-1,BCY,5,A,DF,Muhammad Ali,lab
+WEDNESDAY,2,1,Academic Block I CY LAB-2,BCS,7,A,BC,Dr. Shahbaz Siddiqui,lecture
+WEDNESDAY,6,3,Academic Block I CY LAB-2,BCY,7,B,SSD,Waseem Rauf,lab
+WEDNESDAY,1,3,Academic Block I LAB-3,BCS,5,E,DB,Fatima Gado,lab
+WEDNESDAY,6,3,Academic Block I LAB-3,BCS,5,L,DB,Mubashir,lab
+WEDNESDAY,1,3,Academic Block I LAB-4,BCS,5,J,DB,Syeda Mahnoor Javed,lab
+WEDNESDAY,6,3,Academic Block I LAB-4,BAI,5,A,DB,Sameer Faisal,lab
+WEDNESDAY,6,3,Academic Block II LAB-7,BCS,5,H,DB,Filza Akhlaq,lab
+WEDNESDAY,1,3,Academic Block II CY LAB-8,BCY,5,B,DF,Muhammad Nouman Rajput,lab
+WEDNESDAY,6,3,Academic Block II CY LAB-8,BAI,5,C,DB,Mehak Mazhar,lab
+WEDNESDAY,1,3,Academic Block II AI/ML LAB-9,BSE,5,A,DB,Syeda Ravia Ejaz,lab
+WEDNESDAY,6,3,Academic Block II LAB-10,BEE,5,A+B,DC Net,Engr. Zakir Hussain,lab
+WEDNESDAY,6,3,Academic Block II LAB-11,BAI,7,B,CV,Sohail Ahmed,lab
+WEDNESDAY,5,1,Academic Block II Lab-12,BCS,7,B,IPT,Abeeha Sattar,lecture
+WEDNESDAY,6,3,Academic Block II PHYSICS Lab,BEE,7,A,CA,Engr. Muhammad Afnan,lab
+THURSDAY,1,1,E-1 Academic Block I,BCY,7,B,PPIT,Sandesh Kumar,lecture
+THURSDAY,2,1,E-1 Academic Block I,BCS,7,A,QC,Sumaiyah Zahid,lecture
+THURSDAY,3,1,E-1 Academic Block I,BCS,7,E,PPIT,Sobia Iftikhar,lecture
+THURSDAY,4,1,E-1 Academic Block I,BSE,7,A,IS,Hira Tunio,lecture
+THURSDAY,5,1,E-1 Academic Block I,BCY,5,A,ETHH,Abuzar Zafar,lecture
+THURSDAY,6,1,E-1 Academic Block I,BCS,7,B,IPT,Abeeha Sattar,lecture
+THURSDAY,7,1,E-1 Academic Block I,BSE,7,B,IS,Hira Tunio,lecture
+THURSDAY,1,1,E-2 Academic Block I,BCY,7,A,PPIT,Bilal Ahsan,lecture
+THURSDAY,2,1,E-2 Academic Block I,BCS,7,A,IPT,Abeeha Sattar,lecture
+THURSDAY,3,1,E-2 Academic Block I,BCS,7,C,PPIT,Kashan Hussain,lecture
+THURSDAY,5,1,E-2 Academic Block I,BAI,5,B,KKR,Adil Sheraz,lecture
+THURSDAY,6,1,E-2 Academic Block I,BCS,7,B,RS,Zain Ul Hassan,lecture
+THURSDAY,1,1,E-3 Academic Block I,BCS,7,A,PPIT,Kashan Hussain,lecture
+THURSDAY,2,1,E-3 Academic Block I,BCS,7,A,DS,Dr. Nouman Durrani,lecture
+THURSDAY,3,1,E-3 Academic Block I,BCS,7,D,PPIT,Sania Urooj,lecture
+THURSDAY,4,1,E-3 Academic Block I,BCS,7,A,IS,Dr. Nausheen Shoaib,lecture
+THURSDAY,5,1,E-3 Academic Block I,BSE,5,A,SCD,Ali Fatmi,lecture
+THURSDAY,6,1,E-3 Academic Block I,BAI,7,B,NLP,Saeeda Kanwal,lecture
+THURSDAY,8,1,E-3 Academic Block I,BCY,7,B,SSD,Abuzar Zafar,lecture
+THURSDAY,1,1,E-4 Academic Block I,BCS,7,B,IS,Dr. Farrukh Salim Shaikh,lecture
+THURSDAY,2,1,E-4 Academic Block I,BCS,7,A,BC,Dr. Shahbaz Siddiqui,lecture
+THURSDAY,3,1,E-4 Academic Block I,BCS,7,B,PPIT,Anaum Hamid,lecture
+THURSDAY,4,1,E-4 Academic Block I,BCS,7,C,IS,Dr. Aqsa Aslam,lecture
+THURSDAY,5,1,E-4 Academic Block I,BCS,7,K,IS,Dr. Aqsa Aslam,lecture
+THURSDAY,6,1,E-4 Academic Block I,BCY,7,A+B,PDC,Dr. Ghufran Ahmed,lecture
+THURSDAY,7,1,E-4 Academic Block I,BCS,7,G,IS,Muhammad Usman,lecture
+THURSDAY,1,1,E-5 Academic Block I,BCS,7,G,PPIT,Sania Urooj,lecture
+THURSDAY,2,1,E-5 Academic Block I,BCS,7,A,WP,Ali Fatmi,lecture
+THURSDAY,3,1,E-5 Academic Block I,BCS,7,H,PPIT,Shahar Bano,lecture
+THURSDAY,4,1,E-5 Academic Block I,BCS,7,F,IS,Dr. Farrukh Salim Shaikh,lecture
+THURSDAY,5,1,E-5 Academic Block I,BCS,5,F,PDC,Mubashra Fayyaz,lecture
+THURSDAY,6,1,E-5 Academic Block I,BAI,7,A,CV,Bilal Ahsan,lecture
+THURSDAY,7,1,E-5 Academic Block I,BAI,5,B,DAA,Minhal Raza,lecture
+THURSDAY,1,1,E-6 Academic Block I,BCS,7,F,PPIT,Shahar Bano,lecture
+THURSDAY,3,1,E-6 Academic Block I,BCS,7,J,PPIT,Aashir Mahboob,lecture
+THURSDAY,4,1,E-6 Academic Block I,BCS,7,H,IS,Muhammad Usman,lecture
+THURSDAY,5,1,E-6 Academic Block I,BCS,5,J,PDC,Dr. Nausheen Shoaib,lecture
+THURSDAY,7,1,E-6 Academic Block I,BAI,7,A,FOM,Ahsan Ali Abbasi,lecture
+THURSDAY,8,1,E-6 Academic Block I,BAI,7,A,FOM,Ahsan Ali Abbasi,lecture
+THURSDAY,1,1,R-11 Academic Block I,BCS,7,K,PPIT,Aashir Mahboob,lecture
+THURSDAY,3,1,R-11 Academic Block I,BSE,5,A,TBW,Khadija Shireen,lecture
+THURSDAY,4,1,R-11 Academic Block I,BCS,7,J,IS,Yusra Kaleem,lecture
+THURSDAY,5,1,R-11 Academic Block I,BSE,5,B,DAA,Minhal Raza,lecture
+THURSDAY,6,1,R-11 Academic Block I,BSE,5,B,TBW,Khadija Shireen,lecture
+THURSDAY,7,1,R-11 Academic Block I,BCY,7,B,IA,Ali Naseer Shah,lecture
+THURSDAY,2,1,R-12 Academic Block I,BAI,5,A,KKR,Dr. Muhammad Rafi,lecture
+THURSDAY,3,1,R-12 Academic Block I,BAI,7,A,NLP,Saeeda Kanwal,lecture
+THURSDAY,4,1,R-12 Academic Block I,BCY,7,A,IA,Ali Naseer Shah,lecture
+THURSDAY,5,1,R-12 Academic Block I,BCS,5,K,GT,Abdul Basit,lecture
+THURSDAY,6,1,R-12 Academic Block I,BCS,5,K,GT,Abdul Basit,lecture
+THURSDAY,7,1,R-12 Academic Block I,BCS,5,F,GT,Abdul Basit,lecture
+THURSDAY,1,1,R-109 Academic Block I,BCS,5,M,SDA,Fizza Aqeel,lecture
+THURSDAY,2,1,R-109 Academic Block I,BSE,5,A,DB,Alina Arshad,lecture
+THURSDAY,4,1,R-109 Academic Block I,BCS,5,D,PDC,Muhammad Kashif,lecture
+THURSDAY,6,1,R-109 Academic Block I,BAI,5,C,KKR,Adil Sheraz,lecture
+THURSDAY,7,1,R-109 Academic Block I,BCS,5,L,OS,Rabia Ansari,lecture
+THURSDAY,8,1,R-109 Academic Block I,BCS,5,L,OS,Rabia Ansari,lecture
+THURSDAY,1,1,A-1 Academic Block II,BAI,5,A,TBW,Javeria Ali,lecture
+THURSDAY,2,1,A-1 Academic Block II,BCS,7,A,RS,Zain Ul Hassan,lecture
+THURSDAY,3,1,A-1 Academic Block II,BAI,7,B,CV,Bilal Ahsan,lecture
+THURSDAY,5,1,A-1 Academic Block II,BCS,5,E,GT,Urooj,lecture
+THURSDAY,6,1,A-1 Academic Block II,BCY,5,A,DF,Dr. Shahbaz Siddiqui,lecture
+THURSDAY,7,1,A-1 Academic Block II,BAI,5,C,ML,Sania Urooj,lecture
+THURSDAY,1,1,A-2 Academic Block II,BCS,7,D,IS,Yusra Kaleem,lecture
+THURSDAY,2,1,A-2 Academic Block II,BCY,7,A,SSD,Abuzar Zafar,lecture
+THURSDAY,6,1,A-2 Academic Block II,BCY,5,B,DAA,Sandesh Kumar,lecture
+THURSDAY,7,1,A-2 Academic Block II,BCS,5,D,DB,Dr. Anam Qureshi,lecture
+THURSDAY,1,1,A-3 Academic Block II,BSE,5,A,TBW,Khadija Shireen,lecture
+THURSDAY,2,1,A-3 Academic Block II,BCS,5,M,GT,Urooj,lecture
+THURSDAY,3,1,A-3 Academic Block II,BSE,7,A,PPIT,Yusra Kaleem,lecture
+THURSDAY,5,1,A-3 Academic Block II,BCS,5,B,SDA,Dr. Imran Ali Bhatti,lecture
+THURSDAY,6,1,A-3 Academic Block II,BCS,5,B,PDC,Mubashra Fayyaz,lecture
+THURSDAY,7,1,A-3 Academic Block II,BSE,5,B,SCD,Ali Fatmi,lecture
+THURSDAY,2,1,A-5 Academic Block II,BCS,5,C,DB,Dr. Anam Qureshi,lecture
+THURSDAY,3,1,A-5 Academic Block II,BCS,5,B,GT,Dr. Nazish Kanwal,lecture
+THURSDAY,4,1,A-5 Academic Block II,BCS,5,B,OS,Usama bin Umar,lecture
+THURSDAY,6,1,A-5 Academic Block II,BCS,5,D,GT,Dr. Nazish Kanwal,lecture
+THURSDAY,7,1,A-5 Academic Block II,BCS,5,C,GT,Dr. Nazish Kanwal,lecture
+THURSDAY,8,1,A-5 Academic Block II,BCS,5,C,GT,Dr. Nazish Kanwal,lecture
+THURSDAY,2,1,A-6 Academic Block II,BCS,5,D,SDA,Engr. Abdul Rahman,lecture
+THURSDAY,3,1,A-6 Academic Block II,BCS,5,C,SDA,Engr. Abdul Rahman,lecture
+THURSDAY,4,1,A-6 Academic Block II,BCS,5,L,OS,Rabia Ansari,lecture
+THURSDAY,8,1,A-6 Academic Block II,BCS,5,A,OS,Saeeda Kanwal,lecture
+THURSDAY,2,1,A-7 Academic Block II,BAI,5,C,DAA,Dr. Kamran,lecture
+THURSDAY,3,1,A-7 Academic Block II,BCS,5,D,DB,Dr. Anam Qureshi,lecture
+THURSDAY,2,1,A-8 Academic Block II,BCS,5,E,SDA,Sobia Iftikhar,lecture
+THURSDAY,3,1,A-8 Academic Block II,BCS,5,J,DB,Javeria Farooq,lecture
+THURSDAY,4,1,A-8 Academic Block II,BAI,5,C,TBW,Javeria Ali,lecture
+THURSDAY,5,1,A-8 Academic Block II,BAI,5,C,TBW,Javeria Ali,lecture
+THURSDAY,6,1,A-8 Academic Block II,BCS,5,E,PDC,Dr. Nausheen Shoaib,lecture
+THURSDAY,7,1,A-8 Academic Block II,BCS,5,J,SDA,Engr. Abdul Rahman,lecture
+THURSDAY,1,1,B-9 Academic Block II,BBA,5,A,Con. Beh,Asiya Zaheer,lecture
+THURSDAY,2,1,B-9 Academic Block II,BCY,5,B,DB,Abeer Gauher,lecture
+THURSDAY,3,1,B-9 Academic Block II,BBA,5,A,HRM,Dr. Nazia,lecture
+THURSDAY,1,1,B-11 Academic Block II,BCS,5,C,PDC,Muhammad Kashif,lecture
+THURSDAY,1,1,S2 Academic Block I,BSE,7,A+B,FSPM,Minhal Raza,lecture
+THURSDAY,3,1,S2 Academic Block I,BCS,5,L+M,PDC,Syed Faisal Ali,lecture
+THURSDAY,7,1,C-13 Academic Block II,BAI,7,A,CT,Dr. Shahnawaz,lecture
+THURSDAY,8,1,C-13 Academic Block II,BAI,7,A,CT,Dr. Shahnawaz,lecture
+THURSDAY,6,1,C-15 Academic Block II,BCS,5,H,GT,Moheez ur Rahim,lecture
+THURSDAY,1,1,C-14 Academic Block II,BCY,5,B,DF,Dr. Shahbaz Siddiqui,lecture
+THURSDAY,2,1,C-14 Academic Block II,BCS,5,G,PDC,Dr. Ghufran Ahmed,lecture
+THURSDAY,3,1,C-14 Academic Block II,BCS,5,F,DB,Fizza Aqeel,lecture
+THURSDAY,4,1,C-14 Academic Block II,BCS,5,A,OS,Saeeda Kanwal,lecture
+THURSDAY,5,1,C-14 Academic Block II,BCS,5,L,GT,Moheez ur Rahim,lecture
+THURSDAY,6,1,C-14 Academic Block II,BAI,5,B,TBW,Javeria Ali,lecture
+THURSDAY,1,1,C-16 Academic Block II,BCS,5,H,DB,Javeria Farooq,lecture
+THURSDAY,2,1,C-16 Academic Block II,BCS,5,H,SDA,Syeda Rubab Manzar,lecture
+THURSDAY,3,1,C-16 Academic Block II,BCS,5,G,SDA,Syeda Rubab Manzar,lecture
+THURSDAY,3,1,C-17 Academic Block II,BCS,5,K,PDC,Dr. Nadeem Kafi Khan,lecture
+THURSDAY,4,1,C-17 Academic Block II,BCS,5,A,PDC,Dr. Nadeem Kafi Khan,lecture
+THURSDAY,5,1,C-17 Academic Block II,BCS,5,C,DAA,Anaum Hamid,lecture
+THURSDAY,1,1,C-18 Academic Block II,BCS,5,A,GT,Urooj,lecture
+THURSDAY,2,1,C-18 Academic Block II,BCS,5,L,DAA,Dr. Nasir Uddin,lecture
+THURSDAY,5,1,C-18 Academic Block II,BCS,5,H,PDC,Muhammad Kashif,lecture
+THURSDAY,6,1,C-18 Academic Block II,BCS,5,F,SDA,Sobia Iftikhar,lecture
+THURSDAY,7,1,C-18 Academic Block II,BCS,5,G,GT,Urooj,lecture
+THURSDAY,3,1,C-19 Academic Block II,BAI,5,A,DAA,Dr. Kamran,lecture
+THURSDAY,3,1,C-21 Academic Block II,BCY,5,B,IS,Usama Antuley,lecture
+THURSDAY,6,1,D-23 Academic Block II,BCS,5,G,DAA,Anaum Hamid,lecture
+THURSDAY,6,1,D-25 Academic Block II,BCS,5,L+M,PDC,Syed Faisal Ali,lecture
+THURSDAY,8,1,D-25 Academic Block II,BCY,5,A,IS,Usama Antuley,lecture
+THURSDAY,5,1,D-26 Academic Block II,BBA,5,A,Database Systems,Shaheer,lecture
+THURSDAY,6,1,D-26 Academic Block II,BCS,5,A,SDA,Dr. Imran Ali Bhatti,lecture
+THURSDAY,1,3,Academic Block I CY LAB-2,BAI,5,B,DB,Sameer Faisal,lab
+THURSDAY,6,3,Academic Block I CY LAB-2,BAI,5,A,ML,Usama bin Umar,lab
+THURSDAY,1,3,Academic Block I LAB-3,BCY,5,A,DB,Yumna Asif,lab
+THURSDAY,5,1,Academic Block I LAB-3,BCY,5,A,NPS,Shoaib Raza,lecture
+THURSDAY,1,3,Academic Block I LAB-4,BSE,5,B,SCD,Yasir Arafat,lab
+THURSDAY,1,1,Academic Block II LAB-11,BCS,5,K,SDA,Iqra Fahad,lecture
+THURSDAY,2,1,Academic Block II LAB-11,BCS,5,B,SDA,Dr. Imran Ali Bhatti,lecture
+THURSDAY,6,3,Academic Block II Lab-12,BBA,5,A,Database Systems,Yasir Arafat,lab
+FRIDAY,1,1,A-2 Academic Block II,BCS,5,B,OS,Usama bin Umar,lecture
+FRIDAY,2,1,A-2 Academic Block II,BCS,5,B,OS,Usama bin Umar,lecture
+FRIDAY,5,1,A-2 Academic Block II,BCS,5,A,OS,Saeeda Kanwal,lecture
+FRIDAY,4,1,A-3 Academic Block II,BCS,5,A,TOA,Shahar Bano,lecture
+FRIDAY,6,1,A-3 Academic Block II,BCS,5,A,TOA,Shahar Bano,lecture
+FRIDAY,4,1,A-7 Academic Block II,BCS,5,B,DE,Dr. Khusro Mian,lecture
+FRIDAY,5,1,A-7 Academic Block II,BCS,5,B,DE,Dr. Khusro Mian,lecture
+FRIDAY,8,1,A-7 Academic Block II,BCS,5,B,DE,Dr. Khusro Mian,lecture
+FRIDAY,2,1,B-9 Academic Block II,BBA,5,A,Basic Eco,Mohd. Amjad,lecture
+FRIDAY,3,1,B-9 Academic Block II,BBA,5,A,Basic Eco,Mohd. Amjad,lecture
+FRIDAY,6,1,B-10 Academic Block II,BBA,5,A,Database Systems,Shaheer,lecture
+FRIDAY,3,1,C-12 Academic Block II,BEE,7,A,AML,Engr. Ahsan Khan,lecture
+FRIDAY,6,1,C-12 Academic Block II,BEE,5,A,AT,Engr. Asim Mehmood,lecture
+FRIDAY,2,1,C-13 Academic Block II,BEE,5,B,AT,Engr. Asim Mehmood,lecture
+FRIDAY,3,1,C-13 Academic Block II,BEE,5,B,AT,Engr. Asim Mehmood,lecture
+FRIDAY,4,1,C-13 Academic Block II,BEE,5,A+B,MPI,Engr. Haris Mohsin,lecture
+FRIDAY,5,1,C-13 Academic Block II,BEE,5,A+B,MPI,Engr. Haris Mohsin,lecture
+FRIDAY,6,1,C-13 Academic Block II,BEE,5,B,MPI,Engr. Muhammad Afnan,lecture
+FRIDAY,8,1,C-13 Academic Block II,BEE,5,A,DC Net,Engr. Sadaf Ayesha,lecture
+FRIDAY,5,1,C-15 Academic Block II,BEE,7,A,CA,Engr. Asim Mehmood,lecture
+FRIDAY,3,1,C-19 Academic Block II,BCS,5,A,DE,Mairaj,lecture
+FRIDAY,4,1,C-19 Academic Block II,BCS,5,A,DE,Mairaj,lecture
+FRIDAY,1,3,Academic Block II CY LAB-8,BCS,5,A,OS,Zainab Asif,lab
+FRIDAY,4,3,Academic Block II CY LAB-8,BCS,5,B,OS,Muhammad Monis,lab
+FRIDAY,7,3,Academic Block II LAB-11,BBA,5,A,Basic Eco,Moheez ur Rahim,lab
+FRIDAY,1,3,Academic Block II MPI Lab,BEE,5,A,MPI,Engr. Areeb Ahmed,lab
+FRIDAY,7,3,Academic Block II MPI Lab,BEE,5,B,MPI,Engr. Muhammad Afnan,lab

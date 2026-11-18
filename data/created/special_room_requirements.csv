@@ -1,0 +1,15 @@
+offering_id,required_rooms,source,reason
+BAI-7A-CV-LAB,Academic Block II AI/ML LAB-9;Academic Block II LAB-11,assumed HoD request (the two labs CV used in Fall 2024),GPU machines for computer vision
+BAI-7B-CV-LAB,Academic Block II AI/ML LAB-9;Academic Block II LAB-11,assumed HoD request (the two labs CV used in Fall 2024),GPU machines for computer vision
+BBA-5A-BasicEco-LEC,B-9 Academic Block II;B-10 Academic Block II;B-11 Academic Block II,assumed (BBA-5A lectures were in block B in Fall 2024),FSM department rooms
+BBA-5A-Con.Beh-LEC,B-9 Academic Block II;B-10 Academic Block II;B-11 Academic Block II,assumed (BBA-5A lectures were in block B in Fall 2024),FSM department rooms
+BBA-5A-DatabaseSystems-LEC,B-9 Academic Block II;B-10 Academic Block II;B-11 Academic Block II,assumed (BBA-5A lectures were in block B in Fall 2024),FSM department rooms
+BBA-5A-FM-LEC,B-9 Academic Block II;B-10 Academic Block II;B-11 Academic Block II,assumed (BBA-5A lectures were in block B in Fall 2024),FSM department rooms
+BBA-5A-HRM-LEC,B-9 Academic Block II;B-10 Academic Block II;B-11 Academic Block II,assumed (BBA-5A lectures were in block B in Fall 2024),FSM department rooms
+BEE-5A-ADC-LAB,Academic Block II Electronics Lab;Academic Block II PHYSICS Lab;Academic Block II Project Lab;Academic Block II MPI Lab,real: this EE lab only used EE labs in Fall 2024,Electrical equipment
+BEE-5A-MPI-LAB,Academic Block II Electronics Lab;Academic Block II PHYSICS Lab;Academic Block II Project Lab;Academic Block II MPI Lab,real: this EE lab only used EE labs in Fall 2024,Electrical equipment
+BEE-5B-ADC-LAB,Academic Block II Electronics Lab;Academic Block II PHYSICS Lab;Academic Block II Project Lab;Academic Block II MPI Lab,real: this EE lab only used EE labs in Fall 2024,Electrical equipment
+BEE-5B-MPI-LAB,Academic Block II Electronics Lab;Academic Block II PHYSICS Lab;Academic Block II Project Lab;Academic Block II MPI Lab,real: this EE lab only used EE labs in Fall 2024,Electrical equipment
+BEE-7A-AML-LAB,Academic Block II Electronics Lab;Academic Block II PHYSICS Lab;Academic Block II Project Lab;Academic Block II MPI Lab,real: this EE lab only used EE labs in Fall 2024,Electrical equipment
+BEE-7A-CA-LAB,Academic Block II Electronics Lab;Academic Block II PHYSICS Lab;Academic Block II Project Lab;Academic Block II MPI Lab,real: this EE lab only used EE labs in Fall 2024,Electrical equipment
+BSE-7A+B-FSPM-LEC,S2 Academic Block I,real: combined BSE-7A+B always used S2,Combined section

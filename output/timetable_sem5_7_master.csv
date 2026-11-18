@@ -1,0 +1,537 @@
+day,start_slot,end_slot,time,course,type,sections,elective,teacher,room,room_capacity,enrollment,meeting_id
+MON,1,1,08:00-08:55,DB,lecture,BAI-5A,no,Omer Qureshi,E-6 Academic Block I,50,44,BAI-5A-DB-LEC#1
+MON,1,1,08:00-08:55,TBW,lecture,BAI-5B,no,Javeria Ali,E-3 Academic Block I,50,39,BAI-5B-TBW-LEC#2
+MON,1,1,08:00-08:55,DB,lecture,BCS-5A,no,Atiya Jokhio,A-2 Academic Block II,50,45,BCS-5A-DB-LEC#3
+MON,1,1,08:00-08:55,DAA,lecture,BCS-5B,no,Dr. Muhammad Atif Tahir,A-1 Academic Block II,50,45,BCS-5B-DAA-LEC#3
+MON,1,1,08:00-08:55,GT,lecture,BCS-5C,no,Dr. Nazish Kanwal,A-3 Academic Block II,50,42,BCS-5C-GT-LEC#3
+MON,1,1,08:00-08:55,DAA,lecture,BCS-5E,no,Abu Zhuran,C-12 Academic Block II,50,41,BCS-5E-DAA-LEC#1
+MON,1,1,08:00-08:55,SDA,lecture,BCS-5F,no,Sobia Iftikhar,A-5 Academic Block II,50,46,BCS-5F-SDA-LEC#2
+MON,1,1,08:00-08:55,PDC,lecture,BCS-5G,no,Dr. Ghufran Ahmed,A-7 Academic Block II,50,45,BCS-5G-PDC-LEC#2
+MON,1,1,08:00-08:55,SDA,lecture,BCS-5H,no,Syeda Rubab Manzar,C-15 Academic Block II,50,40,BCS-5H-SDA-LEC#2
+MON,1,1,08:00-08:55,DAA,lecture,BCS-5J,no,Dr. Fahad Sherwani,D-24 Academic Block II,50,43,BCS-5J-DAA-LEC#1
+MON,1,1,08:00-08:55,PDC,lecture,BCS-5K,no,Dr. Nadeem Kafi Khan,E-2 Academic Block I,50,41,BCS-5K-PDC-LEC#3
+MON,1,1,08:00-08:55,SDA,lecture,BCS-5L,no,Javeria Farooq,A-6 Academic Block II,50,21,BCS-5L-SDA-LEC#2
+MON,1,1,08:00-08:55,DB,lecture,BCS-5M,no,Basit Ali,A-4 Academic Block II,50,23,BCS-5M-DB-LEC#1
+MON,1,3,08:00-10:55,DB,lab,BCY-5A,no,Yumna Asif,Academic Block I CY LAB-2,48,41,BCY-5A-DB-LAB#1
+MON,1,1,08:00-08:55,IS,lecture,BCY-5B,no,Usama Antuley,E-5 Academic Block I,50,44,BCY-5B-IS-LEC#3
+MON,1,1,08:00-08:55,DC Net,lecture,BEE-5A,no,Engr. Sadaf Ayesha,D-25 Academic Block II,50,20,BEE-5A-DCNet-LEC#1
+MON,1,1,08:00-08:55,ADC,lecture,BEE-5B,no,Dr. Atif Saleem,E-1 Academic Block I,50,19,BEE-5B-ADC-LEC#1
+MON,1,3,08:00-10:55,DB,lab,BSE-5A,no,Syeda Ravia Ejaz,Academic Block I LAB-4,48,46,BSE-5A-DB-LAB#1
+MON,1,1,08:00-08:55,SCD,lecture,BSE-5B,no,Ali Fatmi,E-4 Academic Block I,50,47,BSE-5B-SCD-LEC#2
+MON,2,2,09:00-09:55,ML,lecture,BAI-5B,no,Dr. Maria Siddiqua,A-7 Academic Block II,50,39,BAI-5B-ML-LEC#1
+MON,2,4,09:00-11:55,DB,lab,BAI-5C,no,Mehak Mazhar,Academic Block II DS LAB-6,56,40,BAI-5C-DB-LAB#1
+MON,2,2,09:00-09:55,Basic Eco,lecture,BBA-5A,no,Mohd. Amjad,B-9 Academic Block II,53,44,BBA-5A-BasicEco-LEC#2
+MON,2,2,09:00-09:55,SDA,lecture,BCS-5C,no,Engr. Abdul Rahman,A-2 Academic Block II,50,42,BCS-5C-SDA-LEC#2
+MON,2,4,09:00-11:55,DB,lab,BCS-5D,no,Bushra Sattar,Academic Block II CY LAB-8,48,43,BCS-5D-DB-LAB#1
+MON,2,2,09:00-09:55,DB,lecture,BCS-5F,no,Fizza Aqeel,A-4 Academic Block II,50,46,BCS-5F-DB-LEC#1
+MON,2,2,09:00-09:55,DAA,lecture,BCS-5H,no,Abu Zhuran,A-5 Academic Block II,50,40,BCS-5H-DAA-LEC#3
+MON,2,2,09:00-09:55,DAA,lecture,BCS-5K,no,Dr. Farrukh Salim Shaikh,A-6 Academic Block II,50,41,BCS-5K-DAA-LEC#3
+MON,2,2,09:00-09:55,DAA,lecture,BCS-5M,no,Dr. Fahad Sherwani,A-3 Academic Block II,50,23,BCS-5M-DAA-LEC#2
+MON,2,2,09:00-09:55,DF,lecture,BCY-5B,no,Dr. Shahbaz Siddiqui,C-15 Academic Block II,50,44,BCY-5B-DF-LEC#3
+MON,2,2,09:00-09:55,DB,lecture,BSE-5B,no,Alina Arshad,C-12 Academic Block II,50,47,BSE-5B-DB-LEC#2
+MON,3,3,10:00-10:55,ML,lecture,BAI-5A,no,Dr. Maria Siddiqua,C-19 Academic Block II,50,44,BAI-5A-ML-LEC#1
+MON,3,3,10:00-10:55,Con. Beh,lecture,BBA-5A,no,Asiya Zaheer,B-9 Academic Block II,53,44,BBA-5A-Con.Beh-LEC#2
+MON,3,5,10:00-12:55,DB,lab,BCS-5A,no,Syeda Mahnoor Javed,Academic Block II Lab-12,48,45,BCS-5A-DB-LAB#1
+MON,3,3,10:00-10:55,SDA,lecture,BCS-5B,no,Dr. Imran Ali Bhatti,A-1 Academic Block II,50,45,BCS-5B-SDA-LEC#1
+MON,3,5,10:00-12:55,DB,lab,BCS-5E,no,Fatima Gado,Academic Block II LAB-11,48,41,BCS-5E-DB-LAB#1
+MON,3,3,10:00-10:55,SDA,lecture,BCS-5G,no,Syeda Rubab Manzar,A-4 Academic Block II,50,45,BCS-5G-SDA-LEC#2
+MON,3,3,10:00-10:55,DB,lecture,BCS-5J,no,Javeria Farooq,A-5 Academic Block II,50,43,BCS-5J-DB-LEC#2
+MON,3,3,10:00-10:55,DB,lecture,BCS-5K,no,Zain Noureen,A-6 Academic Block II,50,41,BCS-5K-DB-LEC#3
+MON,3,3,10:00-10:55,DAA,lecture,BCS-5L,no,Dr. Nasir Uddin,A-2 Academic Block II,50,21,BCS-5L-DAA-LEC#1
+MON,3,5,10:00-12:55,DC Net,lab,BEE-5A+BEE-5B,no,Engr. Zakir Hussain,Academic Block II AI/ML LAB-9,48,39,BEE-5A+B-DCNet-LAB#1
+MON,3,3,10:00-10:55,DAA,lecture,BSE-5B,no,Minhal Raza,C-12 Academic Block II,50,47,BSE-5B-DAA-LEC#1
+MON,4,4,11:00-11:55,DAA,lecture,BAI-5A,no,Dr. Kamran,D-24 Academic Block II,50,44,BAI-5A-DAA-LEC#2
+MON,4,4,11:00-11:55,DB,lecture,BAI-5B,no,Basit Ali,C-20 Academic Block II,50,39,BAI-5B-DB-LEC#2
+MON,4,4,11:00-11:55,DAA,lecture,BCS-5B,no,Dr. Muhammad Atif Tahir,A-1 Academic Block II,50,45,BCS-5B-DAA-LEC#1
+MON,4,6,11:00-13:55,DB,lab,BCS-5C,no,Sohail Ahmed,Academic Block I CY LAB-2,48,42,BCS-5C-DB-LAB#1
+MON,4,4,11:00-11:55,DAA,lecture,BCS-5F,no,Dr. Nasir Uddin,A-2 Academic Block II,50,46,BCS-5F-DAA-LEC#2
+MON,4,4,11:00-11:55,DAA,lecture,BCS-5G,no,Anaum Hamid,A-4 Academic Block II,50,45,BCS-5G-DAA-LEC#2
+MON,4,4,11:00-11:55,DAA,lecture,BCS-5H,no,Abu Zhuran,A-5 Academic Block II,50,40,BCS-5H-DAA-LEC#1
+MON,4,4,11:00-11:55,GT,lecture,BCS-5J,no,Abdul Basit,C-19 Academic Block II,50,43,BCS-5J-GT-LEC#3
+MON,4,4,11:00-11:55,DB,lecture,BCS-5L,no,Zain Noureen,A-3 Academic Block II,50,21,BCS-5L-DB-LEC#1
+MON,4,6,11:00-13:55,DB,lab,BCS-5M,no,Mubashir,Academic Block II LAB-10,48,23,BCS-5M-DB-LAB#1
+MON,4,4,11:00-11:55,ETHH,lecture,BCY-5A,yes,Abuzar Zafar,C-21 Academic Block II,50,41,BCY-5A-ETHH-LEC#3
+MON,4,4,11:00-11:55,NPS,lecture,BCY-5A,yes,Shoaib Raza,D-22 Academic Block II,50,41,BCY-5A-NPS-LEC#2
+MON,5,5,12:00-12:55,TBW,lecture,BAI-5A,no,Javeria Ali,C-12 Academic Block II,50,44,BAI-5A-TBW-LEC#1
+MON,5,5,12:00-12:55,DAA,lecture,BAI-5B,no,Minhal Raza,A-4 Academic Block II,50,39,BAI-5B-DAA-LEC#2
+MON,5,5,12:00-12:55,FM,lecture,BBA-5A,no,Mohd. Ahsan,B-11 Academic Block II,53,44,BBA-5A-FM-LEC#3
+MON,5,5,12:00-12:55,PDC,lecture,BCS-5F,no,Mubashra Fayyaz,A-2 Academic Block II,50,46,BCS-5F-PDC-LEC#1
+MON,5,5,12:00-12:55,GT,lecture,BCS-5G,no,Urooj,A-3 Academic Block II,50,45,BCS-5G-GT-LEC#1
+MON,5,7,12:00-14:55,DB,lab,BCS-5K,no,Mehak Mazhar,Academic Block I LAB-4,48,41,BCS-5K-DB-LAB#1
+MON,5,5,12:00-12:55,IS,lecture,BCY-5A,no,Usama Antuley,A-7 Academic Block II,50,41,BCY-5A-IS-LEC#2
+MON,5,7,12:00-14:55,DB,lab,BCY-5B,no,Yumna Asif,Academic Block I LAB-3,48,44,BCY-5B-DB-LAB#1
+MON,5,5,12:00-12:55,TBW,lecture,BSE-5A,no,Khadija Shireen,A-5 Academic Block II,50,46,BSE-5A-TBW-LEC#3
+MON,5,5,12:00-12:55,SQE,lecture,BSE-5B,no,Alina Arshad,A-6 Academic Block II,50,47,BSE-5B-SQE-LEC#2
+MON,6,6,13:00-13:55,KKR,lecture,BAI-5B,no,Adil Sheraz,A-7 Academic Block II,50,39,BAI-5B-KKR-LEC#2
+MON,6,6,13:00-13:55,HRM,lecture,BBA-5A,no,Dr. Nazia,B-9 Academic Block II,53,44,BBA-5A-HRM-LEC#3
+MON,6,6,13:00-13:55,PDC,lecture,BCS-5B,no,Mubashra Fayyaz,A-1 Academic Block II,50,45,BCS-5B-PDC-LEC#2
+MON,6,6,13:00-13:55,GT,lecture,BCS-5D,no,Dr. Nazish Kanwal,A-2 Academic Block II,50,43,BCS-5D-GT-LEC#2
+MON,6,6,13:00-13:55,GT,lecture,BCS-5H,no,Moheez ur Rahim,A-4 Academic Block II,50,40,BCS-5H-GT-LEC#2
+MON,6,6,13:00-13:55,SDA,lecture,BCS-5J,no,Engr. Abdul Rahman,A-3 Academic Block II,50,43,BCS-5J-SDA-LEC#1
+MON,6,6,13:00-13:55,DB,lecture,BCS-5L,no,Zain Noureen,A-5 Academic Block II,50,21,BCS-5L-DB-LEC#3
+MON,6,6,13:00-13:55,DAA,lecture,BCY-5A,no,Sandesh Kumar,C-12 Academic Block II,50,41,BCY-5A-DAA-LEC#3
+MON,6,6,13:00-13:55,DB,lecture,BSE-5A,no,Alina Arshad,C-13 Academic Block II,50,46,BSE-5A-DB-LEC#3
+MON,7,7,14:00-14:55,KKR,lecture,BAI-5A,no,Dr. Muhammad Rafi,E-4 Academic Block I,50,44,BAI-5A-KKR-LEC#1
+MON,7,7,14:00-14:55,DB,lecture,BAI-5C,no,Omer Qureshi,E-3 Academic Block I,50,40,BAI-5C-DB-LEC#3
+MON,7,7,14:00-14:55,FM,lecture,BBA-5A,no,Mohd. Ahsan,B-9 Academic Block II,53,44,BBA-5A-FM-LEC#1
+MON,7,7,14:00-14:55,DAA,lecture,BCS-5A,no,Syed Faisal Ali,A-5 Academic Block II,50,45,BCS-5A-DAA-LEC#2
+MON,7,7,14:00-14:55,DB,lecture,BCS-5B,no,Atiya Jokhio,A-1 Academic Block II,50,45,BCS-5B-DB-LEC#2
+MON,7,7,14:00-14:55,SDA,lecture,BCS-5D,no,Engr. Abdul Rahman,A-3 Academic Block II,50,43,BCS-5D-SDA-LEC#3
+MON,7,7,14:00-14:55,GT,lecture,BCS-5E,no,Urooj,C-13 Academic Block II,50,41,BCS-5E-GT-LEC#2
+MON,7,7,14:00-14:55,GT,lecture,BCS-5F,no,Abdul Basit,A-6 Academic Block II,50,46,BCS-5F-GT-LEC#2
+MON,7,7,14:00-14:55,DB,lecture,BCS-5G,no,Dr. Zulfiqar Ali Memon,A-2 Academic Block II,50,45,BCS-5G-DB-LEC#1
+MON,7,7,14:00-14:55,PDC,lecture,BCS-5H,no,Muhammad Kashif,A-4 Academic Block II,50,40,BCS-5H-PDC-LEC#1
+MON,7,7,14:00-14:55,PDC,lecture,BCS-5J,no,Dr. Nausheen Shoaib,D-23 Academic Block II,50,43,BCS-5J-PDC-LEC#2
+MON,7,7,14:00-14:55,GT,lecture,BCS-5L,no,Moheez ur Rahim,A-7 Academic Block II,50,21,BCS-5L-GT-LEC#1
+MON,7,7,14:00-14:55,DB,lecture,BCY-5A,no,Abeer Gauher,E-1 Academic Block I,50,41,BCY-5A-DB-LEC#2
+MON,7,7,14:00-14:55,ADC,lecture,BEE-5A,no,Dr. Atif Saleem,D-24 Academic Block II,50,20,BEE-5A-ADC-LEC#1
+MON,7,7,14:00-14:55,DC Net,lecture,BEE-5B,no,Engr. Zakir Hussain,D-25 Academic Block II,50,19,BEE-5B-DCNet-LEC#1
+MON,7,7,14:00-14:55,DAA,lecture,BSE-5A,no,Dr. Fahad Sherwani,E-2 Academic Block I,50,46,BSE-5A-DAA-LEC#3
+MON,7,7,14:00-14:55,TBW,lecture,BSE-5B,no,Khadija Shireen,D-28 Academic Block II,50,47,BSE-5B-TBW-LEC#2
+MON,8,8,15:00-15:55,KKR,lecture,BAI-5C,no,Adil Sheraz,D-22 Academic Block II,50,40,BAI-5C-KKR-LEC#3
+MON,8,8,15:00-15:55,PDC,lecture,BCS-5A,no,Dr. Nadeem Kafi Khan,A-5 Academic Block II,50,45,BCS-5A-PDC-LEC#3
+MON,8,8,15:00-15:55,GT,lecture,BCS-5B,no,Dr. Nazish Kanwal,A-2 Academic Block II,50,45,BCS-5B-GT-LEC#2
+MON,8,8,15:00-15:55,PDC,lecture,BCS-5C,no,Muhammad Kashif,A-3 Academic Block II,50,42,BCS-5C-PDC-LEC#3
+MON,8,8,15:00-15:55,DB,lecture,BCS-5D,no,Dr. Anam Qureshi,A-4 Academic Block II,50,43,BCS-5D-DB-LEC#3
+MON,8,8,15:00-15:55,DAA,lecture,BCS-5E,no,Abu Zhuran,C-12 Academic Block II,50,41,BCS-5E-DAA-LEC#3
+MON,8,8,15:00-15:55,DAA,lecture,BCS-5F,no,Dr. Nasir Uddin,A-7 Academic Block II,50,46,BCS-5F-DAA-LEC#3
+MON,8,8,15:00-15:55,DB,lecture,BCS-5H,no,Javeria Farooq,C-13 Academic Block II,50,40,BCS-5H-DB-LEC#3
+MON,8,8,15:00-15:55,DAA,lecture,BCS-5J,no,Dr. Fahad Sherwani,C-15 Academic Block II,50,43,BCS-5J-DAA-LEC#3
+MON,8,8,15:00-15:55,SDA,lecture,BCS-5M,no,Fizza Aqeel,A-6 Academic Block II,50,23,BCS-5M-SDA-LEC#3
+MON,8,8,15:00-15:55,ADC,lecture,BEE-5B,no,Dr. Atif Saleem,C-19 Academic Block II,50,19,BEE-5B-ADC-LEC#3
+TUE,1,3,08:00-10:55,ML,lab,BAI-5A,no,Usama bin Umar,Academic Block I LAB-3,48,44,BAI-5A-ML-LAB#1
+TUE,1,1,08:00-08:55,DAA,lecture,BAI-5B,no,Minhal Raza,E-4 Academic Block I,50,39,BAI-5B-DAA-LEC#3
+TUE,1,1,08:00-08:55,TBW,lecture,BAI-5C,no,Javeria Ali,R-11 Academic Block I,50,40,BAI-5C-TBW-LEC#2
+TUE,1,1,08:00-08:55,FOM,lecture,BAI-7A,yes,Ahsan Ali Abbasi,C-21 Academic Block II,50,41,BAI-7A-FOM-LEC#3
+TUE,1,1,08:00-08:55,Database Systems,lecture,BBA-5A,no,Shaheer,B-9 Academic Block II,53,44,BBA-5A-DatabaseSystems-LEC#2
+TUE,1,1,08:00-08:55,DB,lecture,BCS-5A,no,Atiya Jokhio,A-2 Academic Block II,50,45,BCS-5A-DB-LEC#1
+TUE,1,1,08:00-08:55,DAA,lecture,BCS-5B,no,Dr. Muhammad Atif Tahir,A-1 Academic Block II,50,45,BCS-5B-DAA-LEC#2
+TUE,1,1,08:00-08:55,DAA,lecture,BCS-5C,no,Anaum Hamid,A-5 Academic Block II,50,42,BCS-5C-DAA-LEC#2
+TUE,1,1,08:00-08:55,SDA,lecture,BCS-5D,no,Engr. Abdul Rahman,A-3 Academic Block II,50,43,BCS-5D-SDA-LEC#2
+TUE,1,1,08:00-08:55,GT,lecture,BCS-5E,no,Urooj,C-16 Academic Block II,50,41,BCS-5E-GT-LEC#1
+TUE,1,1,08:00-08:55,PDC,lecture,BCS-5F,no,Mubashra Fayyaz,C-12 Academic Block II,50,46,BCS-5F-PDC-LEC#2
+TUE,1,1,08:00-08:55,SDA,lecture,BCS-5G,no,Syeda Rubab Manzar,C-14 Academic Block II,50,45,BCS-5G-SDA-LEC#3
+TUE,1,1,08:00-08:55,PDC,lecture,BCS-5H,no,Muhammad Kashif,A-6 Academic Block II,50,40,BCS-5H-PDC-LEC#3
+TUE,1,1,08:00-08:55,GT,lecture,BCS-5J,no,Abdul Basit,C-18 Academic Block II,50,43,BCS-5J-GT-LEC#2
+TUE,1,1,08:00-08:55,DB,lecture,BCS-5K,no,Zain Noureen,D-23 Academic Block II,50,41,BCS-5K-DB-LEC#1
+TUE,1,1,08:00-08:55,DAA,lecture,BCS-5L,no,Dr. Nasir Uddin,C-13 Academic Block II,50,21,BCS-5L-DAA-LEC#2
+TUE,1,1,08:00-08:55,DB,lecture,BCS-5M,no,Basit Ali,A-7 Academic Block II,50,23,BCS-5M-DB-LEC#2
+TUE,1,1,08:00-08:55,IS,lecture,BCS-7B,no,Dr. Farrukh Salim Shaikh,D-25 Academic Block II,50,42,BCS-7B-IS-LEC#3
+TUE,1,1,08:00-08:55,IS,lecture,BCS-7C,no,Dr. Aqsa Aslam,E-2 Academic Block I,50,44,BCS-7C-IS-LEC#1
+TUE,1,1,08:00-08:55,PPIT,lecture,BCS-7E,no,Sobia Iftikhar,D-24 Academic Block II,50,43,BCS-7E-PPIT-LEC#3
+TUE,1,1,08:00-08:55,IS,lecture,BCS-7G,no,Muhammad Usman,D-27 Academic Block II,50,45,BCS-7G-IS-LEC#2
+TUE,1,1,08:00-08:55,PPIT,lecture,BCS-7H,no,Shahar Bano,D-26 Academic Block II,50,42,BCS-7H-PPIT-LEC#3
+TUE,1,1,08:00-08:55,IS,lecture,BCS-7J,no,Yusra Kaleem,E-3 Academic Block I,50,49,BCS-7J-IS-LEC#3
+TUE,1,1,08:00-08:55,DF,lecture,BCY-5B,no,Dr. Shahbaz Siddiqui,E-6 Academic Block I,50,44,BCY-5B-DF-LEC#1
+TUE,1,1,08:00-08:55,PPIT,lecture,BCY-7A,no,Bilal Ahsan,D-28 Academic Block II,50,24,BCY-7A-PPIT-LEC#3
+TUE,1,1,08:00-08:55,PPIT,lecture,BCY-7B,no,Sandesh Kumar,E-1 Academic Block I,50,22,BCY-7B-PPIT-LEC#2
+TUE,1,1,08:00-08:55,MPI,lecture,BEE-5A+BEE-5B,no,Engr. Haris Mohsin,C-19 Academic Block II,50,39,BEE-5A+B-MPI-LEC#3
+TUE,1,1,08:00-08:55,CA,lecture,BEE-7A,no,Engr. Asim Mehmood,E-5 Academic Block I,50,46,BEE-7A-CA-LEC#3
+TUE,1,1,08:00-08:55,SCD,lecture,BSE-5A,no,Ali Fatmi,R-109 Academic Block I,50,46,BSE-5A-SCD-LEC#1
+TUE,2,2,09:00-09:55,ML,lecture,BAI-5B,no,Dr. Maria Siddiqua,D-22 Academic Block II,50,39,BAI-5B-ML-LEC#3
+TUE,2,2,09:00-09:55,DAA,lecture,BAI-5C,no,Dr. Kamran,D-27 Academic Block II,50,40,BAI-5C-DAA-LEC#3
+TUE,2,2,09:00-09:55,FOM,lecture,BAI-7A,yes,Ahsan Ali Abbasi,A-4 Academic Block II,50,41,BAI-7A-FOM-LEC#1
+TUE,2,2,09:00-09:55,CT,lecture,BAI-7A,yes,Dr. Shahnawaz,A-5 Academic Block II,50,41,BAI-7A-CT-LEC#3
+TUE,2,2,09:00-09:55,Con. Beh,lecture,BBA-5A,no,Asiya Zaheer,B-10 Academic Block II,53,44,BBA-5A-Con.Beh-LEC#3
+TUE,2,2,09:00-09:55,DE,lecture,BCS-5A,yes,Mairaj,A-1 Academic Block II,50,45,BCS-5A-DE-LEC#1
+TUE,2,2,09:00-09:55,OS,lecture,BCS-5A,yes,Saeeda Kanwal,A-2 Academic Block II,50,45,BCS-5A-OS-LEC#2
+TUE,2,4,09:00-11:55,OS,lab,BCS-5B,yes,Muhammad Monis,Academic Block I CY LAB-2,48,45,BCS-5B-OS-LAB#1
+TUE,2,2,09:00-09:55,FSPM,lecture,BCS-7A,yes,Ubaid Aftab,C-14 Academic Block II,50,40,BCS-7A-FSPM-LEC#1
+TUE,2,2,09:00-09:55,RS,lecture,BCS-7A,yes,Zain Ul Hassan,C-16 Academic Block II,50,40,BCS-7A-RS-LEC#2
+TUE,2,2,09:00-09:55,QC,lecture,BCS-7A,yes,Sumaiyah Zahid,C-18 Academic Block II,50,40,BCS-7A-QC-LEC#2
+TUE,2,2,09:00-09:55,WP,lecture,BCS-7A,yes,Ali Fatmi,C-19 Academic Block II,50,40,BCS-7A-WP-LEC#1
+TUE,2,2,09:00-09:55,PPIT,lecture,BCY-7B,no,Sandesh Kumar,C-21 Academic Block II,50,22,BCY-7B-PPIT-LEC#3
+TUE,2,2,09:00-09:55,AT,lecture,BEE-5B,no,Engr. Asim Mehmood,A-3 Academic Block II,50,19,BEE-5B-AT-LEC#1
+TUE,2,2,09:00-09:55,TBW,lecture,BEE-7A,no,Javeria Ali,D-23 Academic Block II,50,46,BEE-7A-TBW-LEC#3
+TUE,2,2,09:00-09:55,SQE,lecture,BSE-5A,no,Syeda Rubab Manzar,D-24 Academic Block II,50,46,BSE-5A-SQE-LEC#2
+TUE,2,4,09:00-11:55,SCD,lab,BSE-5B,no,Yasir Arafat,Academic Block III LAB-5,54,47,BSE-5B-SCD-LAB#1
+TUE,2,2,09:00-09:55,PPIT,lecture,BSE-7A,no,Yusra Kaleem,D-25 Academic Block II,50,25,BSE-7A-PPIT-LEC#3
+TUE,2,2,09:00-09:55,IS,lecture,BSE-7B,no,Hira Tunio,D-26 Academic Block II,50,25,BSE-7B-IS-LEC#3
+TUE,3,3,10:00-10:55,DB,lecture,BAI-5B,no,Basit Ali,A-2 Academic Block II,50,39,BAI-5B-DB-LEC#1
+TUE,3,3,10:00-10:55,NLP,lecture,BAI-7A,no,Saeeda Kanwal,A-4 Academic Block II,50,41,BAI-7A-NLP-LEC#3
+TUE,3,3,10:00-10:55,HRM,lecture,BBA-5A,no,Dr. Nazia,B-10 Academic Block II,53,44,BBA-5A-HRM-LEC#2
+TUE,3,3,10:00-10:55,TOA,lecture,BCS-5A,yes,Shahar Bano,A-5 Academic Block II,50,45,BCS-5A-TOA-LEC#2
+TUE,3,3,10:00-10:55,PPIT,lecture,BCS-7B,no,Anaum Hamid,A-6 Academic Block II,50,42,BCS-7B-PPIT-LEC#3
+TUE,3,3,10:00-10:55,IS,lecture,BCS-7D,no,Yusra Kaleem,C-16 Academic Block II,50,44,BCS-7D-IS-LEC#3
+TUE,3,3,10:00-10:55,PPIT,lecture,BCS-7J,no,Aashir Mahboob,C-15 Academic Block II,50,49,BCS-7J-PPIT-LEC#1
+TUE,3,3,10:00-10:55,DF,lecture,BCY-5A,no,Dr. Shahbaz Siddiqui,C-19 Academic Block II,50,41,BCY-5A-DF-LEC#2
+TUE,3,3,10:00-10:55,IS,lecture,BCY-5B,no,Usama Antuley,C-21 Academic Block II,50,44,BCY-5B-IS-LEC#2
+TUE,3,3,10:00-10:55,PPIT,lecture,BCY-7A,no,Bilal Ahsan,A-7 Academic Block II,50,24,BCY-7A-PPIT-LEC#1
+TUE,3,3,10:00-10:55,IA,lecture,BCY-7B,no,Ali Naseer Shah,C-14 Academic Block II,50,22,BCY-7B-IA-LEC#2
+TUE,3,5,10:00-12:55,ADC,lab,BEE-5A,no,Engr. Sadaf Ayesha,Academic Block II MPI Lab,50,20,BEE-5A-ADC-LAB#1
+TUE,3,3,10:00-10:55,ADC,lecture,BEE-5B,no,Dr. Atif Saleem,A-3 Academic Block II,50,19,BEE-5B-ADC-LEC#2
+TUE,4,4,11:00-11:55,DE,lecture,BCS-5A,yes,Mairaj,A-1 Academic Block II,50,45,BCS-5A-DE-LEC#2
+TUE,4,4,11:00-11:55,DS,lecture,BCS-7A,yes,Dr. Nouman Durrani,A-3 Academic Block II,50,40,BCS-7A-DS-LEC#1
+TUE,4,4,11:00-11:55,BC,lecture,BCS-7A,yes,Dr. Shahbaz Siddiqui,A-4 Academic Block II,50,40,BCS-7A-BC-LEC#2
+TUE,4,4,11:00-11:55,IPT,lecture,BCS-7A,yes,Abeeha Sattar,A-5 Academic Block II,50,40,BCS-7A-IPT-LEC#1
+TUE,4,4,11:00-11:55,FSPM,lecture,BCS-7B,yes,Ubaid Aftab,A-2 Academic Block II,50,42,BCS-7B-FSPM-LEC#2
+TUE,4,4,11:00-11:55,DAA,lecture,BCY-5A,no,Sandesh Kumar,A-6 Academic Block II,50,41,BCY-5A-DAA-LEC#2
+TUE,4,4,11:00-11:55,DB,lecture,BCY-5B,no,Abeer Gauher,A-7 Academic Block II,50,44,BCY-5B-DB-LEC#3
+TUE,5,5,12:00-12:55,TBW,lecture,BAI-5A,no,Javeria Ali,LLC Academic Block I (R7),50,44,BAI-5A-TBW-LEC#3
+TUE,5,7,12:00-14:55,ML,lab,BAI-5B,no,Alishba Subhani,Academic Block II CY LAB-8,48,39,BAI-5B-ML-LAB#1
+TUE,5,5,12:00-12:55,DB,lecture,BAI-5C,no,Omer Qureshi,E-6 Academic Block I,50,40,BAI-5C-DB-LEC#2
+TUE,5,7,12:00-14:55,CV,lab,BAI-7A,no,Sohail Ahmed,Academic Block II AI/ML LAB-9,48,41,BAI-7A-CV-LAB#1
+TUE,5,5,12:00-12:55,CV,lecture,BAI-7B,no,Bilal Ahsan,C-19 Academic Block II,50,44,BAI-7B-CV-LEC#2
+TUE,5,7,12:00-14:55,Database Systems,lab,BBA-5A,no,Yasir Arafat,Academic Block I CY LAB-2,48,44,BBA-5A-DatabaseSystems-LAB#1
+TUE,5,5,12:00-12:55,DAA,lecture,BCS-5A,no,Syed Faisal Ali,A-4 Academic Block II,50,45,BCS-5A-DAA-LEC#3
+TUE,5,7,12:00-14:55,DB,lab,BCS-5B,no,Bushra Sattar,Academic Block I LAB-3,48,45,BCS-5B-DB-LAB#1
+TUE,5,5,12:00-12:55,DB,lecture,BCS-5C,no,Dr. Anam Qureshi,A-3 Academic Block II,50,42,BCS-5C-DB-LEC#1
+TUE,5,5,12:00-12:55,PDC,lecture,BCS-5D,no,Muhammad Kashif,A-2 Academic Block II,50,43,BCS-5D-PDC-LEC#2
+TUE,5,5,12:00-12:55,SDA,lecture,BCS-5E,no,Sobia Iftikhar,C-14 Academic Block II,50,41,BCS-5E-SDA-LEC#2
+TUE,5,5,12:00-12:55,GT,lecture,BCS-5F,no,Abdul Basit,A-7 Academic Block II,50,46,BCS-5F-GT-LEC#3
+TUE,5,5,12:00-12:55,DB,lecture,BCS-5G,no,Dr. Zulfiqar Ali Memon,A-1 Academic Block II,50,45,BCS-5G-DB-LEC#3
+TUE,5,7,12:00-14:55,DB,lab,BCS-5H,no,Filza Akhlaq,Academic Block I LAB-4,48,40,BCS-5H-DB-LAB#1
+TUE,5,5,12:00-12:55,PDC,lecture,BCS-5J,no,Dr. Nausheen Shoaib,C-15 Academic Block II,50,43,BCS-5J-PDC-LEC#1
+TUE,5,5,12:00-12:55,DAA,lecture,BCS-5K,no,Dr. Farrukh Salim Shaikh,C-18 Academic Block II,50,41,BCS-5K-DAA-LEC#2
+TUE,5,5,12:00-12:55,SDA,lecture,BCS-5L,no,Javeria Farooq,C-12 Academic Block II,50,21,BCS-5L-SDA-LEC#1
+TUE,5,5,12:00-12:55,SDA,lecture,BCS-5M,no,Fizza Aqeel,A-6 Academic Block II,50,23,BCS-5M-SDA-LEC#2
+TUE,5,5,12:00-12:55,IS,lecture,BCS-7E,no,Dr. Sufian Hameed,C-20 Academic Block II,50,43,BCS-7E-IS-LEC#2
+TUE,5,5,12:00-12:55,PPIT,lecture,BCS-7F,no,Shahar Bano,C-21 Academic Block II,50,41,BCS-7F-PPIT-LEC#1
+TUE,5,5,12:00-12:55,PPIT,lecture,BCS-7G,no,Sania Urooj,D-25 Academic Block II,50,45,BCS-7G-PPIT-LEC#3
+TUE,5,5,12:00-12:55,IS,lecture,BCS-7H,no,Muhammad Usman,D-22 Academic Block II,50,42,BCS-7H-IS-LEC#3
+TUE,5,5,12:00-12:55,PPIT,lecture,BCS-7K,no,Aashir Mahboob,E-2 Academic Block I,50,41,BCS-7K-PPIT-LEC#2
+TUE,5,5,12:00-12:55,IS,lecture,BCY-5A,no,Usama Antuley,E-3 Academic Block I,50,41,BCY-5A-IS-LEC#1
+TUE,5,5,12:00-12:55,DAA,lecture,BCY-5B,no,Sandesh Kumar,E-4 Academic Block I,50,44,BCY-5B-DAA-LEC#1
+TUE,5,5,12:00-12:55,IA,lecture,BCY-7A,no,Ali Naseer Shah,D-23 Academic Block II,50,24,BCY-7A-IA-LEC#1
+TUE,5,5,12:00-12:55,SSD,lecture,BCY-7B,no,Abuzar Zafar,D-24 Academic Block II,50,22,BCY-7B-SSD-LEC#1
+TUE,5,5,12:00-12:55,DC Net,lecture,BEE-5B,no,Engr. Zakir Hussain,C-16 Academic Block II,50,19,BEE-5B-DCNet-LEC#2
+TUE,5,7,12:00-14:55,AML,lab,BEE-7A,no,Engr. Areeb Ahmed,Academic Block II Electronics Lab,50,46,BEE-7A-AML-LAB#1
+TUE,5,5,12:00-12:55,DB,lecture,BSE-5A,no,Alina Arshad,E-5 Academic Block I,50,46,BSE-5A-DB-LEC#1
+TUE,5,5,12:00-12:55,FSPM,lecture,BSE-7A+BSE-7B,no,Minhal Raza,S2 Academic Block I,53,50,BSE-7A+B-FSPM-LEC#1
+TUE,6,6,13:00-13:55,DB,lecture,BAI-5A,no,Omer Qureshi,E-4 Academic Block I,50,44,BAI-5A-DB-LEC#3
+TUE,6,6,13:00-13:55,ML,lecture,BAI-5C,no,Sania Urooj,E-5 Academic Block I,50,40,BAI-5C-ML-LEC#1
+TUE,6,6,13:00-13:55,SDA,lecture,BCS-5A,no,Dr. Imran Ali Bhatti,A-6 Academic Block II,50,45,BCS-5A-SDA-LEC#2
+TUE,6,6,13:00-13:55,PDC,lecture,BCS-5C,no,Muhammad Kashif,A-2 Academic Block II,50,42,BCS-5C-PDC-LEC#2
+TUE,6,6,13:00-13:55,DAA,lecture,BCS-5D,no,Syed Faisal Ali,A-4 Academic Block II,50,43,BCS-5D-DAA-LEC#3
+TUE,6,6,13:00-13:55,DB,lecture,BCS-5E,no,Fizza Aqeel,C-16 Academic Block II,50,41,BCS-5E-DB-LEC#3
+TUE,6,6,13:00-13:55,SDA,lecture,BCS-5F,no,Sobia Iftikhar,C-13 Academic Block II,50,46,BCS-5F-SDA-LEC#3
+TUE,6,6,13:00-13:55,DB,lecture,BCS-5G,no,Dr. Zulfiqar Ali Memon,A-1 Academic Block II,50,45,BCS-5G-DB-LEC#2
+TUE,6,6,13:00-13:55,SDA,lecture,BCS-5J,no,Engr. Abdul Rahman,A-5 Academic Block II,50,43,BCS-5J-SDA-LEC#2
+TUE,6,6,13:00-13:55,SDA,lecture,BCS-5K,no,Iqra Fahad,C-19 Academic Block II,50,41,BCS-5K-SDA-LEC#3
+TUE,6,6,13:00-13:55,GT,lecture,BCS-5L,no,Moheez ur Rahim,C-14 Academic Block II,50,21,BCS-5L-GT-LEC#2
+TUE,6,6,13:00-13:55,GT,lecture,BCS-5M,no,Urooj,C-12 Academic Block II,50,23,BCS-5M-GT-LEC#3
+TUE,6,6,13:00-13:55,FSPM,lecture,BCS-7B,yes,Ubaid Aftab,C-21 Academic Block II,50,42,BCS-7B-FSPM-LEC#3
+TUE,6,6,13:00-13:55,RS,lecture,BCS-7B,yes,Zain Ul Hassan,D-22 Academic Block II,50,42,BCS-7B-RS-LEC#2
+TUE,6,6,13:00-13:55,IPT,lecture,BCS-7B,yes,Abeeha Sattar,D-24 Academic Block II,50,42,BCS-7B-IPT-LEC#1
+TUE,6,6,13:00-13:55,ETHH,lecture,BCY-5A,yes,Abuzar Zafar,E-1 Academic Block I,50,41,BCY-5A-ETHH-LEC#2
+TUE,6,6,13:00-13:55,PDC,lecture,BCY-7A+BCY-7B,no,Dr. Ghufran Ahmed,D-23 Academic Block II,50,46,BCY-7A+B-PDC-LEC#1
+TUE,6,6,13:00-13:55,MPI,lecture,BEE-5B,no,Engr. Muhammad Afnan,C-18 Academic Block II,50,19,BEE-5B-MPI-LEC#1
+TUE,6,6,13:00-13:55,DAA,lecture,BSE-5A,no,Dr. Fahad Sherwani,E-2 Academic Block I,50,46,BSE-5A-DAA-LEC#1
+TUE,6,6,13:00-13:55,DAA,lecture,BSE-5B,no,Minhal Raza,D-25 Academic Block II,50,47,BSE-5B-DAA-LEC#3
+TUE,6,6,13:00-13:55,PPIT,lecture,BSE-7B,no,Dr. Maria Siddiqua,E-3 Academic Block I,50,25,BSE-7B-PPIT-LEC#1
+TUE,7,7,14:00-14:55,ML,lecture,BAI-5A,no,Dr. Maria Siddiqua,E-4 Academic Block I,50,44,BAI-5A-ML-LEC#3
+TUE,7,7,14:00-14:55,KKR,lecture,BAI-5C,no,Adil Sheraz,E-3 Academic Block I,50,40,BAI-5C-KKR-LEC#1
+TUE,7,7,14:00-14:55,NLP,lecture,BAI-7B,no,Saeeda Kanwal,C-19 Academic Block II,50,44,BAI-7B-NLP-LEC#1
+TUE,7,7,14:00-14:55,GT,lecture,BCS-5A,no,Urooj,A-5 Academic Block II,50,45,BCS-5A-GT-LEC#3
+TUE,7,7,14:00-14:55,SDA,lecture,BCS-5C,no,Engr. Abdul Rahman,A-2 Academic Block II,50,42,BCS-5C-SDA-LEC#1
+TUE,7,7,14:00-14:55,PDC,lecture,BCS-5D,no,Muhammad Kashif,A-3 Academic Block II,50,43,BCS-5D-PDC-LEC#3
+TUE,7,7,14:00-14:55,PDC,lecture,BCS-5E,no,Dr. Nausheen Shoaib,C-14 Academic Block II,50,41,BCS-5E-PDC-LEC#3
+TUE,7,7,14:00-14:55,DB,lecture,BCS-5F,no,Fizza Aqeel,A-7 Academic Block II,50,46,BCS-5F-DB-LEC#3
+TUE,7,7,14:00-14:55,DAA,lecture,BCS-5G,no,Anaum Hamid,C-13 Academic Block II,50,45,BCS-5G-DAA-LEC#3
+TUE,7,7,14:00-14:55,DAA,lecture,BCS-5J,no,Dr. Fahad Sherwani,C-15 Academic Block II,50,43,BCS-5J-DAA-LEC#2
+TUE,7,7,14:00-14:55,GT,lecture,BCS-5K,no,Abdul Basit,C-18 Academic Block II,50,41,BCS-5K-GT-LEC#2
+TUE,7,7,14:00-14:55,PDC,lecture,BCS-5L+BCS-5M,no,Syed Faisal Ali,A-4 Academic Block II,50,44,BCS-5L+M-PDC-LEC#1
+TUE,7,7,14:00-14:55,PPIT,lecture,BCS-7D,no,Sania Urooj,D-24 Academic Block II,50,44,BCS-7D-PPIT-LEC#2
+TUE,7,7,14:00-14:55,IS,lecture,BCS-7F,no,Dr. Farrukh Salim Shaikh,C-21 Academic Block II,50,41,BCS-7F-IS-LEC#3
+TUE,7,7,14:00-14:55,IS,lecture,BCS-7K,no,Dr. Aqsa Aslam,D-23 Academic Block II,50,41,BCS-7K-IS-LEC#2
+TUE,7,7,14:00-14:55,DB,lecture,BCY-5A,no,Abeer Gauher,E-1 Academic Block I,50,41,BCY-5A-DB-LEC#1
+TUE,7,7,14:00-14:55,SSD,lecture,BCY-7A,no,Abuzar Zafar,D-22 Academic Block II,50,24,BCY-7A-SSD-LEC#2
+TUE,7,7,14:00-14:55,EMT,lecture,BEE-5A+BEE-5B,no,Engr. Ahsan Khan,C-16 Academic Block II,50,39,BEE-5A+B-EMT-LEC#2
+TUE,7,7,14:00-14:55,SCD,lecture,BSE-5B,no,Ali Fatmi,D-25 Academic Block II,50,47,BSE-5B-SCD-LEC#3
+TUE,7,7,14:00-14:55,IS,lecture,BSE-7A,no,Hira Tunio,E-2 Academic Block I,50,25,BSE-7A-IS-LEC#2
+TUE,8,8,15:00-15:55,OS,lecture,BCS-5B,yes,Usama bin Umar,A-1 Academic Block II,50,45,BCS-5B-OS-LEC#3
+TUE,8,8,15:00-15:55,IS,lecture,BCS-7A,no,Dr. Nausheen Shoaib,A-3 Academic Block II,50,40,BCS-7A-IS-LEC#3
+TUE,8,8,15:00-15:55,AT,lecture,BEE-5A,no,Engr. Asim Mehmood,A-2 Academic Block II,50,20,BEE-5A-AT-LEC#3
+TUE,8,8,15:00-15:55,SQE,lecture,BSE-5B,no,Alina Arshad,A-4 Academic Block II,50,47,BSE-5B-SQE-LEC#3
+WED,1,1,08:00-08:55,KKR,lecture,BAI-5A,no,Dr. Muhammad Rafi,E-29 Academic Block II,52,44,BAI-5A-KKR-LEC#2
+WED,1,1,08:00-08:55,TBW,lecture,BAI-5B,no,Javeria Ali,E-5 Academic Block I,50,39,BAI-5B-TBW-LEC#3
+WED,1,1,08:00-08:55,NLP,lecture,BAI-7B,no,Saeeda Kanwal,D-24 Academic Block II,50,44,BAI-7B-NLP-LEC#3
+WED,1,1,08:00-08:55,SDA,lecture,BCS-5A,no,Dr. Imran Ali Bhatti,A-6 Academic Block II,50,45,BCS-5A-SDA-LEC#3
+WED,1,1,08:00-08:55,DB,lecture,BCS-5B,no,Atiya Jokhio,A-1 Academic Block II,50,45,BCS-5B-DB-LEC#1
+WED,1,1,08:00-08:55,DB,lecture,BCS-5D,no,Dr. Anam Qureshi,A-2 Academic Block II,50,43,BCS-5D-DB-LEC#2
+WED,1,1,08:00-08:55,DB,lecture,BCS-5E,no,Fizza Aqeel,C-18 Academic Block II,50,41,BCS-5E-DB-LEC#2
+WED,1,1,08:00-08:55,PDC,lecture,BCS-5F,no,Mubashra Fayyaz,A-7 Academic Block II,50,46,BCS-5F-PDC-LEC#3
+WED,1,1,08:00-08:55,GT,lecture,BCS-5G,no,Urooj,C-16 Academic Block II,50,45,BCS-5G-GT-LEC#3
+WED,1,1,08:00-08:55,PDC,lecture,BCS-5H,no,Muhammad Kashif,A-3 Academic Block II,50,40,BCS-5H-PDC-LEC#2
+WED,1,1,08:00-08:55,DB,lecture,BCS-5J,no,Javeria Farooq,C-19 Academic Block II,50,43,BCS-5J-DB-LEC#3
+WED,1,1,08:00-08:55,SDA,lecture,BCS-5K,no,Iqra Fahad,D-23 Academic Block II,50,41,BCS-5K-SDA-LEC#1
+WED,1,1,08:00-08:55,PDC,lecture,BCS-5L+BCS-5M,no,Syed Faisal Ali,A-5 Academic Block II,50,44,BCS-5L+M-PDC-LEC#3
+WED,1,1,08:00-08:55,PPIT,lecture,BCS-7A,no,Kashan Hussain,D-25 Academic Block II,50,40,BCS-7A-PPIT-LEC#3
+WED,1,1,08:00-08:55,IS,lecture,BCS-7D,no,Yusra Kaleem,E-4 Academic Block I,50,44,BCS-7D-IS-LEC#2
+WED,1,1,08:00-08:55,PPIT,lecture,BCS-7E,no,Sobia Iftikhar,D-26 Academic Block II,50,43,BCS-7E-PPIT-LEC#2
+WED,1,1,08:00-08:55,PPIT,lecture,BCS-7G,no,Sania Urooj,E-2 Academic Block I,50,45,BCS-7G-PPIT-LEC#1
+WED,1,1,08:00-08:55,IS,lecture,BCS-7H,no,Muhammad Usman,D-28 Academic Block II,50,42,BCS-7H-IS-LEC#1
+WED,1,1,08:00-08:55,PPIT,lecture,BCS-7K,no,Aashir Mahboob,E-3 Academic Block I,50,41,BCS-7K-PPIT-LEC#3
+WED,1,1,08:00-08:55,DF,lecture,BCY-5A,no,Dr. Shahbaz Siddiqui,R-109 Academic Block I,50,41,BCY-5A-DF-LEC#3
+WED,1,3,08:00-10:55,DF,lab,BCY-5B,no,Muhammad Nouman Rajput,Academic Block I CY LAB-2,48,44,BCY-5B-DF-LAB#1
+WED,1,1,08:00-08:55,SSD,lecture,BCY-7B,no,Abuzar Zafar,E-1 Academic Block I,50,22,BCY-7B-SSD-LEC#3
+WED,1,1,08:00-08:55,EMT,lecture,BEE-5A+BEE-5B,no,Engr. Ahsan Khan,C-20 Academic Block II,50,39,BEE-5A+B-EMT-LEC#1
+WED,1,1,08:00-08:55,CA,lecture,BEE-7A,no,Engr. Asim Mehmood,E-6 Academic Block I,50,46,BEE-7A-CA-LEC#1
+WED,1,1,08:00-08:55,DB,lecture,BSE-5A,no,Alina Arshad,R-11 Academic Block I,50,46,BSE-5A-DB-LEC#2
+WED,1,1,08:00-08:55,FSPM,lecture,BSE-7A+BSE-7B,no,Minhal Raza,S2 Academic Block I,53,50,BSE-7A+B-FSPM-LEC#2
+WED,2,2,09:00-09:55,ML,lecture,BAI-5B,no,Dr. Maria Siddiqua,C-18 Academic Block II,50,39,BAI-5B-ML-LEC#2
+WED,2,2,09:00-09:55,DAA,lecture,BAI-5C,no,Dr. Kamran,D-24 Academic Block II,50,40,BAI-5C-DAA-LEC#1
+WED,2,2,09:00-09:55,CV,lecture,BAI-7A,no,Bilal Ahsan,A-3 Academic Block II,50,41,BAI-7A-CV-LEC#1
+WED,2,2,09:00-09:55,DE,lecture,BCS-5B,yes,Dr. Khusro Mian,A-1 Academic Block II,50,45,BCS-5B-DE-LEC#2
+WED,2,4,09:00-11:55,OS,lab,BCS-5L,yes,Muhammad Monis,Academic Block II AI/ML LAB-9,48,21,BCS-5L-OS-LAB#1
+WED,2,2,09:00-09:55,PPIT,lecture,BCS-7C,no,Kashan Hussain,A-4 Academic Block II,50,44,BCS-7C-PPIT-LEC#3
+WED,2,2,09:00-09:55,PPIT,lecture,BCS-7D,no,Sania Urooj,C-16 Academic Block II,50,44,BCS-7D-PPIT-LEC#1
+WED,2,2,09:00-09:55,IS,lecture,BCS-7E,no,Dr. Sufian Hameed,A-5 Academic Block II,50,43,BCS-7E-IS-LEC#3
+WED,2,2,09:00-09:55,PPIT,lecture,BCS-7J,no,Aashir Mahboob,C-12 Academic Block II,50,49,BCS-7J-PPIT-LEC#2
+WED,2,2,09:00-09:55,IS,lecture,BCS-7K,no,Dr. Aqsa Aslam,A-7 Academic Block II,50,41,BCS-7K-IS-LEC#3
+WED,2,2,09:00-09:55,PDC,lecture,BCY-7A+BCY-7B,no,Dr. Ghufran Ahmed,A-6 Academic Block II,50,46,BCY-7A+B-PDC-LEC#2
+WED,2,2,09:00-09:55,MPI,lecture,BEE-5A+BEE-5B,no,Engr. Haris Mohsin,A-2 Academic Block II,50,39,BEE-5A+B-MPI-LEC#1
+WED,2,2,09:00-09:55,TBW,lecture,BEE-7A,no,Javeria Ali,C-19 Academic Block II,50,46,BEE-7A-TBW-LEC#1
+WED,2,4,09:00-11:55,DB,lab,BSE-5B,no,Syeda Ravia Ejaz,Academic Block II CY LAB-8,48,47,BSE-5B-DB-LAB#1
+WED,2,2,09:00-09:55,PPIT,lecture,BSE-7A,no,Yusra Kaleem,C-20 Academic Block II,50,25,BSE-7A-PPIT-LEC#1
+WED,3,3,10:00-10:55,DAA,lecture,BAI-5A,no,Dr. Kamran,E-1 Academic Block I,50,44,BAI-5A-DAA-LEC#1
+WED,3,3,10:00-10:55,DB,lecture,BAI-5B,no,Basit Ali,A-3 Academic Block II,50,39,BAI-5B-DB-LEC#3
+WED,3,3,10:00-10:55,DB,lecture,BAI-5C,no,Omer Qureshi,C-21 Academic Block II,50,40,BAI-5C-DB-LEC#1
+WED,3,3,10:00-10:55,CT,lecture,BAI-7A,yes,Dr. Shahnawaz,A-5 Academic Block II,50,41,BAI-7A-CT-LEC#1
+WED,3,3,10:00-10:55,OS,lecture,BCS-5A,yes,Saeeda Kanwal,A-2 Academic Block II,50,45,BCS-5A-OS-LEC#1
+WED,3,3,10:00-10:55,OS,lecture,BCS-5B,yes,Usama bin Umar,A-1 Academic Block II,50,45,BCS-5B-OS-LEC#2
+WED,3,3,10:00-10:55,RS,lecture,BCS-7A,yes,Zain Ul Hassan,A-7 Academic Block II,50,40,BCS-7A-RS-LEC#1
+WED,3,3,10:00-10:55,QC,lecture,BCS-7A,yes,Sumaiyah Zahid,C-12 Academic Block II,50,40,BCS-7A-QC-LEC#3
+WED,3,3,10:00-10:55,DS,lecture,BCS-7A,yes,Dr. Nouman Durrani,C-15 Academic Block II,50,40,BCS-7A-DS-LEC#3
+WED,3,3,10:00-10:55,BC,lecture,BCS-7A,yes,Dr. Shahbaz Siddiqui,C-16 Academic Block II,50,40,BCS-7A-BC-LEC#1
+WED,3,3,10:00-10:55,FSPM,lecture,BCS-7B,yes,Ubaid Aftab,A-6 Academic Block II,50,42,BCS-7B-FSPM-LEC#1
+WED,3,3,10:00-10:55,IPT,lecture,BCS-7B,yes,Abeeha Sattar,C-18 Academic Block II,50,42,BCS-7B-IPT-LEC#2
+WED,3,3,10:00-10:55,IA,lecture,BCY-7B,no,Ali Naseer Shah,C-19 Academic Block II,50,22,BCY-7B-IA-LEC#3
+WED,3,3,10:00-10:55,AT,lecture,BEE-5B,no,Engr. Asim Mehmood,A-4 Academic Block II,50,19,BEE-5B-AT-LEC#2
+WED,3,3,10:00-10:55,TBW,lecture,BSE-5A,no,Khadija Shireen,C-20 Academic Block II,50,46,BSE-5A-TBW-LEC#1
+WED,4,4,11:00-11:55,DB,lecture,BAI-5A,no,Omer Qureshi,E-1 Academic Block I,50,44,BAI-5A-DB-LEC#2
+WED,4,4,11:00-11:55,CV,lecture,BAI-7A,no,Bilal Ahsan,A-4 Academic Block II,50,41,BAI-7A-CV-LEC#3
+WED,4,4,11:00-11:55,OS,lecture,BCS-5A,yes,Saeeda Kanwal,A-2 Academic Block II,50,45,BCS-5A-OS-LEC#3
+WED,4,4,11:00-11:55,TOA,lecture,BCS-5A,yes,Shahar Bano,C-12 Academic Block II,50,45,BCS-5A-TOA-LEC#3
+WED,4,4,11:00-11:55,DE,lecture,BCS-5B,yes,Dr. Khusro Mian,A-1 Academic Block II,50,45,BCS-5B-DE-LEC#3
+WED,4,4,11:00-11:55,PPIT,lecture,BCS-7A,no,Kashan Hussain,A-5 Academic Block II,50,40,BCS-7A-PPIT-LEC#1
+WED,4,4,11:00-11:55,IS,lecture,BCS-7B,no,Dr. Farrukh Salim Shaikh,C-18 Academic Block II,50,42,BCS-7B-IS-LEC#1
+WED,4,4,11:00-11:55,IS,lecture,BCS-7C,no,Dr. Aqsa Aslam,C-20 Academic Block II,50,44,BCS-7C-IS-LEC#3
+WED,4,4,11:00-11:55,IS,lecture,BCS-7E,no,Dr. Sufian Hameed,A-6 Academic Block II,50,43,BCS-7E-IS-LEC#1
+WED,4,4,11:00-11:55,IS,lecture,BCS-7J,no,Yusra Kaleem,C-21 Academic Block II,50,49,BCS-7J-IS-LEC#1
+WED,4,4,11:00-11:55,NPS,lecture,BCY-5A,yes,Shoaib Raza,D-25 Academic Block II,50,41,BCY-5A-NPS-LEC#3
+WED,4,4,11:00-11:55,IA,lecture,BCY-7A,no,Ali Naseer Shah,C-19 Academic Block II,50,24,BCY-7A-IA-LEC#2
+WED,4,4,11:00-11:55,ADC,lecture,BEE-5A,no,Dr. Atif Saleem,A-3 Academic Block II,50,20,BEE-5A-ADC-LEC#2
+WED,4,4,11:00-11:55,SQE,lecture,BSE-5A,no,Syeda Rubab Manzar,D-28 Academic Block II,50,46,BSE-5A-SQE-LEC#1
+WED,5,7,12:00-14:55,DB,lab,BAI-5B,no,Sameer Faisal,Academic Block II LAB-10,48,39,BAI-5B-DB-LAB#1
+WED,5,5,12:00-12:55,KKR,lecture,BAI-5C,no,Adil Sheraz,E-1 Academic Block I,50,40,BAI-5C-KKR-LEC#2
+WED,5,7,12:00-14:55,CV,lab,BAI-7B,no,Sohail Ahmed,Academic Block II LAB-11,48,44,BAI-7B-CV-LAB#1
+WED,5,5,12:00-12:55,DB,lecture,BCS-5A,no,Atiya Jokhio,A-2 Academic Block II,50,45,BCS-5A-DB-LEC#2
+WED,5,5,12:00-12:55,PDC,lecture,BCS-5B,no,Mubashra Fayyaz,A-1 Academic Block II,50,45,BCS-5B-PDC-LEC#1
+WED,5,5,12:00-12:55,GT,lecture,BCS-5C,no,Dr. Nazish Kanwal,A-3 Academic Block II,50,42,BCS-5C-GT-LEC#1
+WED,5,5,12:00-12:55,PDC,lecture,BCS-5D,no,Muhammad Kashif,A-4 Academic Block II,50,43,BCS-5D-PDC-LEC#1
+WED,5,5,12:00-12:55,GT,lecture,BCS-5E,no,Urooj,A-6 Academic Block II,50,41,BCS-5E-GT-LEC#3
+WED,5,7,12:00-14:55,DB,lab,BCS-5F,no,Fatima Gado,Academic Block I LAB-3,48,46,BCS-5F-DB-LAB#1
+WED,5,7,12:00-14:55,DB,lab,BCS-5G,no,Filza Akhlaq,Academic Block I CY LAB-2,48,45,BCS-5G-DB-LAB#1
+WED,5,5,12:00-12:55,DB,lecture,BCS-5H,no,Javeria Farooq,C-12 Academic Block II,50,40,BCS-5H-DB-LEC#2
+WED,5,7,12:00-14:55,DB,lab,BCS-5J,no,Syeda Mahnoor Javed,Academic Block II CY LAB-8,48,43,BCS-5J-DB-LAB#1
+WED,5,5,12:00-12:55,GT,lecture,BCS-5K,no,Abdul Basit,C-15 Academic Block II,50,41,BCS-5K-GT-LEC#1
+WED,5,7,12:00-14:55,DB,lab,BCS-5L,no,Mubashir,Academic Block I LAB-4,48,21,BCS-5L-DB-LAB#1
+WED,5,5,12:00-12:55,DAA,lecture,BCS-5M,no,Dr. Fahad Sherwani,A-5 Academic Block II,50,23,BCS-5M-DAA-LEC#1
+WED,5,5,12:00-12:55,IS,lecture,BCS-7A,no,Dr. Nausheen Shoaib,C-18 Academic Block II,50,40,BCS-7A-IS-LEC#2
+WED,5,5,12:00-12:55,PPIT,lecture,BCS-7B,no,Anaum Hamid,C-20 Academic Block II,50,42,BCS-7B-PPIT-LEC#1
+WED,5,5,12:00-12:55,IS,lecture,BCS-7F,no,Dr. Farrukh Salim Shaikh,D-23 Academic Block II,50,41,BCS-7F-IS-LEC#2
+WED,5,5,12:00-12:55,PPIT,lecture,BCS-7H,no,Shahar Bano,D-24 Academic Block II,50,42,BCS-7H-PPIT-LEC#1
+WED,5,7,12:00-14:55,DF,lab,BCY-5A,no,Muhammad Ali,Academic Block II LAB-7,54,41,BCY-5A-DF-LAB#1
+WED,5,5,12:00-12:55,PPIT,lecture,BCY-7A,no,Bilal Ahsan,D-25 Academic Block II,50,24,BCY-7A-PPIT-LEC#2
+WED,5,7,12:00-14:55,SSD,lab,BCY-7B,no,Waseem Rauf,Academic Block II Lab-12,48,22,BCY-7B-SSD-LAB#1
+WED,5,5,12:00-12:55,AT,lecture,BEE-5A,no,Engr. Asim Mehmood,C-13 Academic Block II,50,20,BEE-5A-AT-LEC#1
+WED,5,7,12:00-14:55,MPI,lab,BEE-5B,no,Engr. Muhammad Afnan,Academic Block II MPI Lab,50,19,BEE-5B-MPI-LAB#1
+WED,5,5,12:00-12:55,SCD,lecture,BSE-5A,no,Ali Fatmi,D-27 Academic Block II,50,46,BSE-5A-SCD-LEC#2
+WED,5,5,12:00-12:55,IS,lecture,BSE-7B,no,Hira Tunio,D-28 Academic Block II,50,25,BSE-7B-IS-LEC#2
+WED,6,6,13:00-13:55,TBW,lecture,BAI-5A,no,Javeria Ali,E-4 Academic Block I,50,44,BAI-5A-TBW-LEC#2
+WED,6,6,13:00-13:55,ML,lecture,BAI-5C,no,Sania Urooj,E-3 Academic Block I,50,40,BAI-5C-ML-LEC#2
+WED,6,6,13:00-13:55,NLP,lecture,BAI-7A,no,Saeeda Kanwal,D-24 Academic Block II,50,41,BAI-7A-NLP-LEC#1
+WED,6,6,13:00-13:55,GT,lecture,BCS-5A,no,Urooj,C-12 Academic Block II,50,45,BCS-5A-GT-LEC#2
+WED,6,6,13:00-13:55,DB,lecture,BCS-5B,no,Atiya Jokhio,A-1 Academic Block II,50,45,BCS-5B-DB-LEC#3
+WED,6,6,13:00-13:55,PDC,lecture,BCS-5C,no,Muhammad Kashif,A-2 Academic Block II,50,42,BCS-5C-PDC-LEC#1
+WED,6,6,13:00-13:55,DAA,lecture,BCS-5D,no,Syed Faisal Ali,A-3 Academic Block II,50,43,BCS-5D-DAA-LEC#1
+WED,6,6,13:00-13:55,PDC,lecture,BCS-5E,no,Dr. Nausheen Shoaib,C-20 Academic Block II,50,41,BCS-5E-PDC-LEC#1
+WED,6,6,13:00-13:55,SDA,lecture,BCS-5H,no,Syeda Rubab Manzar,D-22 Academic Block II,50,40,BCS-5H-SDA-LEC#1
+WED,6,6,13:00-13:55,DB,lecture,BCS-5K,no,Zain Noureen,D-23 Academic Block II,50,41,BCS-5K-DB-LEC#2
+WED,6,6,13:00-13:55,DB,lecture,BCS-5M,no,Basit Ali,A-4 Academic Block II,50,23,BCS-5M-DB-LEC#3
+WED,6,6,13:00-13:55,PPIT,lecture,BCS-7C,no,Kashan Hussain,D-25 Academic Block II,50,44,BCS-7C-PPIT-LEC#1
+WED,6,6,13:00-13:55,PPIT,lecture,BCS-7F,no,Shahar Bano,D-26 Academic Block II,50,41,BCS-7F-PPIT-LEC#2
+WED,6,6,13:00-13:55,IS,lecture,BCS-7G,no,Muhammad Usman,D-27 Academic Block II,50,45,BCS-7G-IS-LEC#3
+WED,6,6,13:00-13:55,DAA,lecture,BCY-5B,no,Sandesh Kumar,E-1 Academic Block I,50,44,BCY-5B-DAA-LEC#3
+WED,6,6,13:00-13:55,TBW,lecture,BSE-5B,no,Khadija Shireen,D-28 Academic Block II,50,47,BSE-5B-TBW-LEC#3
+WED,6,6,13:00-13:55,PPIT,lecture,BSE-7B,no,Dr. Maria Siddiqua,E-2 Academic Block I,50,25,BSE-7B-PPIT-LEC#2
+WED,7,7,14:00-14:55,ML,lecture,BAI-5A,no,Dr. Maria Siddiqua,E-4 Academic Block I,50,44,BAI-5A-ML-LEC#2
+WED,7,7,14:00-14:55,TBW,lecture,BAI-5C,no,Javeria Ali,E-3 Academic Block I,50,40,BAI-5C-TBW-LEC#1
+WED,7,7,14:00-14:55,DAA,lecture,BCS-5A,no,Syed Faisal Ali,A-4 Academic Block II,50,45,BCS-5A-DAA-LEC#1
+WED,7,7,14:00-14:55,PDC,lecture,BCS-5B,no,Mubashra Fayyaz,A-1 Academic Block II,50,45,BCS-5B-PDC-LEC#3
+WED,7,7,14:00-14:55,DAA,lecture,BCS-5C,no,Anaum Hamid,A-3 Academic Block II,50,42,BCS-5C-DAA-LEC#1
+WED,7,7,14:00-14:55,GT,lecture,BCS-5D,no,Dr. Nazish Kanwal,A-2 Academic Block II,50,43,BCS-5D-GT-LEC#1
+WED,7,7,14:00-14:55,SDA,lecture,BCS-5E,no,Sobia Iftikhar,A-6 Academic Block II,50,41,BCS-5E-SDA-LEC#3
+WED,7,7,14:00-14:55,DAA,lecture,BCS-5H,no,Abu Zhuran,C-12 Academic Block II,50,40,BCS-5H-DAA-LEC#2
+WED,7,7,14:00-14:55,PDC,lecture,BCS-5K,no,Dr. Nadeem Kafi Khan,C-14 Academic Block II,50,41,BCS-5K-PDC-LEC#2
+WED,7,7,14:00-14:55,GT,lecture,BCS-5M,no,Urooj,A-5 Academic Block II,50,23,BCS-5M-GT-LEC#1
+WED,7,7,14:00-14:55,FSPM,lecture,BCS-7A,yes,Ubaid Aftab,C-20 Academic Block II,50,40,BCS-7A-FSPM-LEC#2
+WED,7,7,14:00-14:55,WP,lecture,BCS-7A,yes,Ali Fatmi,D-22 Academic Block II,50,40,BCS-7A-WP-LEC#3
+WED,7,7,14:00-14:55,IPT,lecture,BCS-7A,yes,Abeeha Sattar,D-23 Academic Block II,50,40,BCS-7A-IPT-LEC#2
+WED,7,7,14:00-14:55,RS,lecture,BCS-7B,yes,Zain Ul Hassan,C-21 Academic Block II,50,42,BCS-7B-RS-LEC#1
+WED,7,7,14:00-14:55,DB,lecture,BCY-5B,no,Abeer Gauher,D-28 Academic Block II,50,44,BCY-5B-DB-LEC#1
+WED,7,7,14:00-14:55,SSD,lecture,BCY-7A,no,Abuzar Zafar,D-25 Academic Block II,50,24,BCY-7A-SSD-LEC#1
+WED,7,7,14:00-14:55,DC Net,lecture,BEE-5A,no,Engr. Sadaf Ayesha,C-13 Academic Block II,50,20,BEE-5A-DCNet-LEC#2
+WED,7,7,14:00-14:55,AML,lecture,BEE-7A,no,Engr. Ahsan Khan,D-27 Academic Block II,50,46,BEE-7A-AML-LEC#1
+WED,7,7,14:00-14:55,DAA,lecture,BSE-5A,no,Dr. Fahad Sherwani,E-1 Academic Block I,50,46,BSE-5A-DAA-LEC#2
+WED,7,7,14:00-14:55,DB,lecture,BSE-5B,no,Alina Arshad,D-26 Academic Block II,50,47,BSE-5B-DB-LEC#3
+WED,7,7,14:00-14:55,IS,lecture,BSE-7A,no,Hira Tunio,E-2 Academic Block I,50,25,BSE-7A-IS-LEC#3
+WED,8,8,15:00-15:55,FOM,lecture,BAI-7A,yes,Ahsan Ali Abbasi,A-2 Academic Block II,50,41,BAI-7A-FOM-LEC#2
+WED,8,8,15:00-15:55,EDC,lecture,BEE-5A,yes,Engr. Aqib Noor,A-1 Academic Block II,50,20,BEE-5A-EDC-LEC#1
+THU,1,1,08:00-08:55,DAA,lecture,BAI-5C,no,Dr. Kamran,C-17 Academic Block II,59,40,BAI-5C-DAA-LEC#2
+THU,1,1,08:00-08:55,CV,lecture,BAI-7B,no,Bilal Ahsan,E-4 Academic Block I,50,44,BAI-7B-CV-LEC#1
+THU,1,1,08:00-08:55,Con. Beh,lecture,BBA-5A,no,Asiya Zaheer,B-11 Academic Block II,53,44,BBA-5A-Con.Beh-LEC#1
+THU,1,1,08:00-08:55,PDC,lecture,BCS-5A,no,Dr. Nadeem Kafi Khan,A-3 Academic Block II,50,45,BCS-5A-PDC-LEC#1
+THU,1,1,08:00-08:55,GT,lecture,BCS-5B,no,Dr. Nazish Kanwal,A-1 Academic Block II,50,45,BCS-5B-GT-LEC#3
+THU,1,1,08:00-08:55,DB,lecture,BCS-5C,no,Dr. Anam Qureshi,A-2 Academic Block II,50,42,BCS-5C-DB-LEC#2
+THU,1,1,08:00-08:55,SDA,lecture,BCS-5E,no,Sobia Iftikhar,E-1 Academic Block I,50,41,BCS-5E-SDA-LEC#1
+THU,1,1,08:00-08:55,DAA,lecture,BCS-5F,no,Dr. Nasir Uddin,C-14 Academic Block II,50,46,BCS-5F-DAA-LEC#1
+THU,1,1,08:00-08:55,DAA,lecture,BCS-5G,no,Anaum Hamid,C-18 Academic Block II,50,45,BCS-5G-DAA-LEC#1
+THU,1,1,08:00-08:55,GT,lecture,BCS-5H,no,Moheez ur Rahim,C-13 Academic Block II,50,40,BCS-5H-GT-LEC#3
+THU,1,1,08:00-08:55,GT,lecture,BCS-5J,no,Abdul Basit,E-2 Academic Block I,50,43,BCS-5J-GT-LEC#1
+THU,1,1,08:00-08:55,SDA,lecture,BCS-5K,no,Iqra Fahad,E-3 Academic Block I,50,41,BCS-5K-SDA-LEC#2
+THU,1,1,08:00-08:55,DB,lecture,BCS-5L,no,Zain Noureen,C-16 Academic Block II,50,21,BCS-5L-DB-LEC#2
+THU,1,1,08:00-08:55,SDA,lecture,BCS-5M,no,Fizza Aqeel,A-7 Academic Block II,50,23,BCS-5M-SDA-LEC#1
+THU,1,1,08:00-08:55,PPIT,lecture,BCS-7C,no,Kashan Hussain,E-5 Academic Block I,50,44,BCS-7C-PPIT-LEC#2
+THU,1,1,08:00-08:55,IS,lecture,BCS-7D,no,Yusra Kaleem,A-8 Academic Block II,53,44,BCS-7D-IS-LEC#1
+THU,1,1,08:00-08:55,PPIT,lecture,BCS-7G,no,Sania Urooj,E-32 Academic Block II,52,45,BCS-7G-PPIT-LEC#2
+THU,1,1,08:00-08:55,PPIT,lecture,BCS-7H,no,Shahar Bano,E-6 Academic Block I,50,42,BCS-7H-PPIT-LEC#2
+THU,1,1,08:00-08:55,IS,lecture,BCS-7K,no,Dr. Aqsa Aslam,E-33 Academic Block II,52,41,BCS-7K-IS-LEC#1
+THU,1,1,08:00-08:55,DF,lecture,BCY-5B,no,Dr. Shahbaz Siddiqui,S2 Academic Block I,53,44,BCY-5B-DF-LEC#2
+THU,1,1,08:00-08:55,SSD,lecture,BCY-7A,no,Abuzar Zafar,R-109 Academic Block I,50,24,BCY-7A-SSD-LEC#3
+THU,1,1,08:00-08:55,IA,lecture,BCY-7B,no,Ali Naseer Shah,E-30 Academic Block II,52,22,BCY-7B-IA-LEC#1
+THU,1,1,08:00-08:55,AML,lecture,BEE-7A,no,Engr. Ahsan Khan,B-9 Academic Block II,53,46,BEE-7A-AML-LEC#3
+THU,1,3,08:00-10:55,SCD,lab,BSE-5A,no,Yasir Arafat,Academic Block I CY LAB-2,48,46,BSE-5A-SCD-LAB#1
+THU,1,1,08:00-08:55,TBW,lecture,BSE-5B,no,Khadija Shireen,R-11 Academic Block I,50,47,BSE-5B-TBW-LEC#1
+THU,2,2,09:00-09:55,KKR,lecture,BAI-5B,no,Adil Sheraz,E-33 Academic Block II,52,39,BAI-5B-KKR-LEC#1
+THU,2,2,09:00-09:55,CV,lecture,BAI-7A,no,Bilal Ahsan,E-1 Academic Block I,50,41,BAI-7A-CV-LEC#2
+THU,2,2,09:00-09:55,Database Systems,lecture,BBA-5A,no,Shaheer,B-10 Academic Block II,53,44,BBA-5A-DatabaseSystems-LEC#3
+THU,2,2,09:00-09:55,SDA,lecture,BCS-5A,no,Dr. Imran Ali Bhatti,A-5 Academic Block II,50,45,BCS-5A-SDA-LEC#1
+THU,2,2,09:00-09:55,GT,lecture,BCS-5B,no,Dr. Nazish Kanwal,A-1 Academic Block II,50,45,BCS-5B-GT-LEC#1
+THU,2,2,09:00-09:55,SDA,lecture,BCS-5C,no,Engr. Abdul Rahman,A-2 Academic Block II,50,42,BCS-5C-SDA-LEC#3
+THU,2,2,09:00-09:55,DB,lecture,BCS-5D,no,Dr. Anam Qureshi,A-3 Academic Block II,50,43,BCS-5D-DB-LEC#1
+THU,2,2,09:00-09:55,DB,lecture,BCS-5E,no,Fizza Aqeel,C-14 Academic Block II,50,41,BCS-5E-DB-LEC#1
+THU,2,2,09:00-09:55,SDA,lecture,BCS-5F,no,Sobia Iftikhar,A-6 Academic Block II,50,46,BCS-5F-SDA-LEC#1
+THU,2,2,09:00-09:55,GT,lecture,BCS-5G,no,Urooj,A-7 Academic Block II,50,45,BCS-5G-GT-LEC#2
+THU,2,2,09:00-09:55,SDA,lecture,BCS-5H,no,Syeda Rubab Manzar,C-16 Academic Block II,50,40,BCS-5H-SDA-LEC#3
+THU,2,2,09:00-09:55,DB,lecture,BCS-5J,no,Javeria Farooq,C-18 Academic Block II,50,43,BCS-5J-DB-LEC#1
+THU,2,2,09:00-09:55,PDC,lecture,BCS-5K,no,Dr. Nadeem Kafi Khan,D-24 Academic Block II,50,41,BCS-5K-PDC-LEC#1
+THU,2,2,09:00-09:55,PDC,lecture,BCS-5L+BCS-5M,no,Syed Faisal Ali,A-4 Academic Block II,50,44,BCS-5L+M-PDC-LEC#2
+THU,2,2,09:00-09:55,RS,lecture,BCS-7A,yes,Zain Ul Hassan,E-2 Academic Block I,50,40,BCS-7A-RS-LEC#3
+THU,2,2,09:00-09:55,QC,lecture,BCS-7A,yes,Sumaiyah Zahid,E-3 Academic Block I,50,40,BCS-7A-QC-LEC#1
+THU,2,2,09:00-09:55,BC,lecture,BCS-7A,yes,Dr. Shahbaz Siddiqui,E-4 Academic Block I,50,40,BCS-7A-BC-LEC#3
+THU,2,2,09:00-09:55,WP,lecture,BCS-7A,yes,Ali Fatmi,E-5 Academic Block I,50,40,BCS-7A-WP-LEC#2
+THU,2,2,09:00-09:55,IPT,lecture,BCS-7A,yes,Abeeha Sattar,R-109 Academic Block I,50,40,BCS-7A-IPT-LEC#3
+THU,2,2,09:00-09:55,DB,lecture,BCY-5A,no,Abeer Gauher,A-8 Academic Block II,53,41,BCY-5A-DB-LEC#3
+THU,2,2,09:00-09:55,IA,lecture,BCY-7A,no,Ali Naseer Shah,E-32 Academic Block II,52,24,BCY-7A-IA-LEC#3
+THU,2,2,09:00-09:55,PPIT,lecture,BSE-7A,no,Yusra Kaleem,B-9 Academic Block II,53,25,BSE-7A-PPIT-LEC#2
+THU,3,5,10:00-12:55,DB,lab,BAI-5A,no,Sameer Faisal,Academic Block I LAB-3,48,44,BAI-5A-DB-LAB#1
+THU,3,5,10:00-12:55,ML,lab,BAI-5C,no,Usama bin Umar,Academic Block II LAB-11,48,40,BAI-5C-ML-LAB#1
+THU,3,3,10:00-10:55,HRM,lecture,BBA-5A,no,Dr. Nazia,B-9 Academic Block II,53,44,BBA-5A-HRM-LEC#1
+THU,3,3,10:00-10:55,PDC,lecture,BCS-5A,no,Dr. Nadeem Kafi Khan,A-4 Academic Block II,50,45,BCS-5A-PDC-LEC#2
+THU,3,3,10:00-10:55,SDA,lecture,BCS-5B,no,Dr. Imran Ali Bhatti,A-1 Academic Block II,50,45,BCS-5B-SDA-LEC#3
+THU,3,3,10:00-10:55,DB,lecture,BCS-5C,no,Dr. Anam Qureshi,A-3 Academic Block II,50,42,BCS-5C-DB-LEC#3
+THU,3,3,10:00-10:55,SDA,lecture,BCS-5D,no,Engr. Abdul Rahman,A-2 Academic Block II,50,43,BCS-5D-SDA-LEC#1
+THU,3,3,10:00-10:55,DAA,lecture,BCS-5E,no,Abu Zhuran,C-16 Academic Block II,50,41,BCS-5E-DAA-LEC#2
+THU,3,3,10:00-10:55,DB,lecture,BCS-5F,no,Fizza Aqeel,A-6 Academic Block II,50,46,BCS-5F-DB-LEC#2
+THU,3,3,10:00-10:55,SDA,lecture,BCS-5G,no,Syeda Rubab Manzar,C-14 Academic Block II,50,45,BCS-5G-SDA-LEC#1
+THU,3,3,10:00-10:55,DB,lecture,BCS-5H,no,Javeria Farooq,C-18 Academic Block II,50,40,BCS-5H-DB-LEC#1
+THU,3,3,10:00-10:55,PDC,lecture,BCS-5J,no,Dr. Nausheen Shoaib,C-19 Academic Block II,50,43,BCS-5J-PDC-LEC#3
+THU,3,3,10:00-10:55,GT,lecture,BCS-5K,no,Abdul Basit,C-21 Academic Block II,50,41,BCS-5K-GT-LEC#3
+THU,3,3,10:00-10:55,DAA,lecture,BCS-5L,no,Dr. Nasir Uddin,A-7 Academic Block II,50,21,BCS-5L-DAA-LEC#3
+THU,3,3,10:00-10:55,GT,lecture,BCS-5M,no,Urooj,A-5 Academic Block II,50,23,BCS-5M-GT-LEC#2
+THU,3,3,10:00-10:55,PPIT,lecture,BCS-7A,no,Kashan Hussain,D-26 Academic Block II,50,40,BCS-7A-PPIT-LEC#2
+THU,3,3,10:00-10:55,PPIT,lecture,BCS-7B,no,Anaum Hamid,E-3 Academic Block I,50,42,BCS-7B-PPIT-LEC#2
+THU,3,3,10:00-10:55,IS,lecture,BCS-7C,no,Dr. Aqsa Aslam,E-6 Academic Block I,50,44,BCS-7C-IS-LEC#2
+THU,3,3,10:00-10:55,PPIT,lecture,BCS-7E,no,Sobia Iftikhar,E-1 Academic Block I,50,43,BCS-7E-PPIT-LEC#1
+THU,3,3,10:00-10:55,PPIT,lecture,BCS-7F,no,Shahar Bano,E-4 Academic Block I,50,41,BCS-7F-PPIT-LEC#3
+THU,3,3,10:00-10:55,IS,lecture,BCS-7H,no,Muhammad Usman,E-5 Academic Block I,50,42,BCS-7H-IS-LEC#2
+THU,3,3,10:00-10:55,IS,lecture,BCS-7J,no,Yusra Kaleem,E-33 Academic Block II,52,49,BCS-7J-IS-LEC#2
+THU,3,3,10:00-10:55,PPIT,lecture,BCS-7K,no,Aashir Mahboob,R-11 Academic Block I,50,41,BCS-7K-PPIT-LEC#1
+THU,3,3,10:00-10:55,DF,lecture,BCY-5A,no,Dr. Shahbaz Siddiqui,C-17 Academic Block II,59,41,BCY-5A-DF-LEC#1
+THU,3,3,10:00-10:55,DB,lecture,BCY-5B,no,Abeer Gauher,R-12 Academic Block I,70,44,BCY-5B-DB-LEC#2
+THU,3,3,10:00-10:55,PDC,lecture,BCY-7A+BCY-7B,no,Dr. Ghufran Ahmed,E-2 Academic Block I,50,46,BCY-7A+B-PDC-LEC#3
+THU,3,3,10:00-10:55,DB,lecture,BSE-5B,no,Alina Arshad,A-8 Academic Block II,53,47,BSE-5B-DB-LEC#1
+THU,3,3,10:00-10:55,FSPM,lecture,BSE-7A+BSE-7B,no,Minhal Raza,S2 Academic Block I,53,50,BSE-7A+B-FSPM-LEC#3
+THU,4,4,11:00-11:55,TBW,lecture,BAI-5B,no,Javeria Ali,A-6 Academic Block II,50,39,BAI-5B-TBW-LEC#1
+THU,4,4,11:00-11:55,CV,lecture,BAI-7B,no,Bilal Ahsan,A-2 Academic Block II,50,44,BAI-7B-CV-LEC#3
+THU,4,6,11:00-13:55,OS,lab,BCS-5A,yes,Zainab Asif,Academic Block II Lab-12,48,45,BCS-5A-OS-LAB#1
+THU,4,4,11:00-11:55,OS,lecture,BCS-5L,yes,Rabia Ansari,A-1 Academic Block II,50,21,BCS-5L-OS-LEC#3
+THU,4,4,11:00-11:55,DS,lecture,BCS-7A,yes,Dr. Nouman Durrani,A-4 Academic Block II,50,40,BCS-7A-DS-LEC#2
+THU,4,4,11:00-11:55,RS,lecture,BCS-7B,yes,Zain Ul Hassan,A-3 Academic Block II,50,42,BCS-7B-RS-LEC#3
+THU,4,4,11:00-11:55,IPT,lecture,BCS-7B,yes,Abeeha Sattar,A-5 Academic Block II,50,42,BCS-7B-IPT-LEC#3
+THU,4,4,11:00-11:55,DAA,lecture,BCY-5A,no,Sandesh Kumar,C-20 Academic Block II,50,41,BCY-5A-DAA-LEC#1
+THU,4,4,11:00-11:55,IS,lecture,BCY-5B,no,Usama Antuley,D-26 Academic Block II,50,44,BCY-5B-IS-LEC#1
+THU,4,4,11:00-11:55,DAA,lecture,BSE-5B,no,Minhal Raza,C-14 Academic Block II,50,47,BSE-5B-DAA-LEC#2
+THU,4,4,11:00-11:55,PPIT,lecture,BSE-7B,no,Dr. Maria Siddiqua,E-1 Academic Block I,50,25,BSE-7B-PPIT-LEC#3
+THU,5,5,12:00-12:55,KKR,lecture,BAI-5B,no,Adil Sheraz,C-20 Academic Block II,50,39,BAI-5B-KKR-LEC#3
+THU,5,5,12:00-12:55,NLP,lecture,BAI-7B,no,Saeeda Kanwal,A-3 Academic Block II,50,44,BAI-7B-NLP-LEC#2
+THU,5,7,12:00-14:55,FM,lab,BBA-5A,no,Zehra Mukhtiar,Academic Block I CY LAB-2,48,44,BBA-5A-FM-LAB#1
+THU,5,5,12:00-12:55,DE,lecture,BCS-5A,yes,Mairaj,A-2 Academic Block II,50,45,BCS-5A-DE-LEC#3
+THU,5,5,12:00-12:55,OS,lecture,BCS-5L,yes,Rabia Ansari,A-1 Academic Block II,50,21,BCS-5L-OS-LEC#1
+THU,5,5,12:00-12:55,IS,lecture,BCS-7A,no,Dr. Nausheen Shoaib,A-4 Academic Block II,50,40,BCS-7A-IS-LEC#1
+THU,5,5,12:00-12:55,IS,lecture,BCS-7B,no,Dr. Farrukh Salim Shaikh,A-7 Academic Block II,50,42,BCS-7B-IS-LEC#2
+THU,5,5,12:00-12:55,IS,lecture,BCS-7G,no,Muhammad Usman,C-14 Academic Block II,50,45,BCS-7G-IS-LEC#1
+THU,5,5,12:00-12:55,ETHH,lecture,BCY-5A,yes,Abuzar Zafar,E-1 Academic Block I,50,41,BCY-5A-ETHH-LEC#1
+THU,5,5,12:00-12:55,NPS,lecture,BCY-5A,yes,Shoaib Raza,E-2 Academic Block I,50,41,BCY-5A-NPS-LEC#1
+THU,5,7,12:00-14:55,SSD,lab,BCY-7A,no,Abeer Gauher,Academic Block I LAB-4,48,24,BCY-7A-SSD-LAB#1
+THU,5,5,12:00-12:55,PPIT,lecture,BCY-7B,no,Sandesh Kumar,C-18 Academic Block II,50,22,BCY-7B-PPIT-LEC#1
+THU,5,5,12:00-12:55,SCD,lecture,BSE-5B,no,Ali Fatmi,D-26 Academic Block II,50,47,BSE-5B-SCD-LEC#1
+THU,5,5,12:00-12:55,IS,lecture,BSE-7A,no,Hira Tunio,E-3 Academic Block I,50,25,BSE-7A-IS-LEC#1
+THU,6,6,13:00-13:55,DAA,lecture,BAI-5B,no,Minhal Raza,C-15 Academic Block II,50,39,BAI-5B-DAA-LEC#1
+THU,6,6,13:00-13:55,NLP,lecture,BAI-7A,no,Saeeda Kanwal,A-4 Academic Block II,50,41,BAI-7A-NLP-LEC#2
+THU,6,6,13:00-13:55,TOA,lecture,BCS-5A,yes,Shahar Bano,A-5 Academic Block II,50,45,BCS-5A-TOA-LEC#1
+THU,6,6,13:00-13:55,DE,lecture,BCS-5B,yes,Dr. Khusro Mian,A-2 Academic Block II,50,45,BCS-5B-DE-LEC#1
+THU,6,6,13:00-13:55,OS,lecture,BCS-5B,yes,Usama bin Umar,A-3 Academic Block II,50,45,BCS-5B-OS-LEC#1
+THU,6,6,13:00-13:55,OS,lecture,BCS-5L,yes,Rabia Ansari,A-1 Academic Block II,50,21,BCS-5L-OS-LEC#2
+THU,6,6,13:00-13:55,PPIT,lecture,BCS-7D,no,Sania Urooj,C-14 Academic Block II,50,44,BCS-7D-PPIT-LEC#3
+THU,6,6,13:00-13:55,IS,lecture,BCS-7F,no,Dr. Farrukh Salim Shaikh,A-7 Academic Block II,50,41,BCS-7F-IS-LEC#1
+THU,6,6,13:00-13:55,DAA,lecture,BCY-5B,no,Sandesh Kumar,D-23 Academic Block II,50,44,BCY-5B-DAA-LEC#2
+THU,6,6,13:00-13:55,TBW,lecture,BEE-7A,no,Javeria Ali,C-18 Academic Block II,50,46,BEE-7A-TBW-LEC#2
+THU,6,6,13:00-13:55,TBW,lecture,BSE-5A,no,Khadija Shireen,C-16 Academic Block II,50,46,BSE-5A-TBW-LEC#2
+THU,7,7,14:00-14:55,DAA,lecture,BAI-5A,no,Dr. Kamran,R-109 Academic Block I,50,44,BAI-5A-DAA-LEC#3
+THU,7,7,14:00-14:55,TBW,lecture,BAI-5C,no,Javeria Ali,E-6 Academic Block I,50,40,BAI-5C-TBW-LEC#3
+THU,7,7,14:00-14:55,CT,lecture,BAI-7A,yes,Dr. Shahnawaz,D-25 Academic Block II,50,41,BAI-7A-CT-LEC#2
+THU,7,7,14:00-14:55,GT,lecture,BCS-5A,no,Urooj,A-5 Academic Block II,50,45,BCS-5A-GT-LEC#1
+THU,7,7,14:00-14:55,SDA,lecture,BCS-5B,no,Dr. Imran Ali Bhatti,A-1 Academic Block II,50,45,BCS-5B-SDA-LEC#2
+THU,7,7,14:00-14:55,GT,lecture,BCS-5C,no,Dr. Nazish Kanwal,A-2 Academic Block II,50,42,BCS-5C-GT-LEC#2
+THU,7,7,14:00-14:55,DAA,lecture,BCS-5D,no,Syed Faisal Ali,A-3 Academic Block II,50,43,BCS-5D-DAA-LEC#2
+THU,7,7,14:00-14:55,PDC,lecture,BCS-5E,no,Dr. Nausheen Shoaib,C-18 Academic Block II,50,41,BCS-5E-PDC-LEC#2
+THU,7,7,14:00-14:55,GT,lecture,BCS-5F,no,Abdul Basit,C-13 Academic Block II,50,46,BCS-5F-GT-LEC#1
+THU,7,7,14:00-14:55,PDC,lecture,BCS-5G,no,Dr. Ghufran Ahmed,C-16 Academic Block II,50,45,BCS-5G-PDC-LEC#1
+THU,7,7,14:00-14:55,GT,lecture,BCS-5H,no,Moheez ur Rahim,A-7 Academic Block II,50,40,BCS-5H-GT-LEC#1
+THU,7,7,14:00-14:55,SDA,lecture,BCS-5J,no,Engr. Abdul Rahman,A-4 Academic Block II,50,43,BCS-5J-SDA-LEC#3
+THU,7,7,14:00-14:55,DAA,lecture,BCS-5K,no,Dr. Farrukh Salim Shaikh,D-24 Academic Block II,50,41,BCS-5K-DAA-LEC#1
+THU,7,7,14:00-14:55,SDA,lecture,BCS-5L,no,Javeria Farooq,C-14 Academic Block II,50,21,BCS-5L-SDA-LEC#3
+THU,7,7,14:00-14:55,DAA,lecture,BCS-5M,no,Dr. Fahad Sherwani,A-6 Academic Block II,50,23,BCS-5M-DAA-LEC#3
+THU,7,7,14:00-14:55,PPIT,lecture,BCS-7J,no,Aashir Mahboob,E-2 Academic Block I,50,49,BCS-7J-PPIT-LEC#3
+THU,7,7,14:00-14:55,SSD,lecture,BCY-7B,no,Abuzar Zafar,E-1 Academic Block I,50,22,BCY-7B-SSD-LEC#2
+THU,7,7,14:00-14:55,SQE,lecture,BSE-5A,no,Syeda Rubab Manzar,E-4 Academic Block I,50,46,BSE-5A-SQE-LEC#3
+THU,7,7,14:00-14:55,SQE,lecture,BSE-5B,no,Alina Arshad,E-3 Academic Block I,50,47,BSE-5B-SQE-LEC#1
+THU,7,7,14:00-14:55,IS,lecture,BSE-7B,no,Hira Tunio,E-5 Academic Block I,50,25,BSE-7B-IS-LEC#1
+THU,8,8,15:00-15:55,KKR,lecture,BAI-5A,no,Dr. Muhammad Rafi,C-13 Academic Block II,50,44,BAI-5A-KKR-LEC#3
+THU,8,8,15:00-15:55,ML,lecture,BAI-5C,no,Sania Urooj,A-7 Academic Block II,50,40,BAI-5C-ML-LEC#3
+THU,8,8,15:00-15:55,DAA,lecture,BCS-5C,no,Anaum Hamid,A-2 Academic Block II,50,42,BCS-5C-DAA-LEC#3
+THU,8,8,15:00-15:55,GT,lecture,BCS-5D,no,Dr. Nazish Kanwal,A-1 Academic Block II,50,43,BCS-5D-GT-LEC#3
+THU,8,8,15:00-15:55,PDC,lecture,BCS-5G,no,Dr. Ghufran Ahmed,A-4 Academic Block II,50,45,BCS-5G-PDC-LEC#3
+THU,8,8,15:00-15:55,GT,lecture,BCS-5L,no,Moheez ur Rahim,A-3 Academic Block II,50,21,BCS-5L-GT-LEC#3
+THU,8,8,15:00-15:55,IS,lecture,BCY-5A,no,Usama Antuley,A-5 Academic Block II,50,41,BCY-5A-IS-LEC#3
+THU,8,8,15:00-15:55,SCD,lecture,BSE-5A,no,Ali Fatmi,A-6 Academic Block II,50,46,BSE-5A-SCD-LEC#3
+FRI,1,1,08:00-08:50,Database Systems,lecture,BBA-5A,no,Shaheer,B-11 Academic Block II,53,44,BBA-5A-DatabaseSystems-LEC#1
+FRI,1,1,08:00-08:50,AT,lecture,BEE-5A,no,Engr. Asim Mehmood,A-1 Academic Block II,50,20,BEE-5A-AT-LEC#2
+FRI,2,2,08:50-09:40,ADC,lecture,BEE-5A,no,Dr. Atif Saleem,A-2 Academic Block II,50,20,BEE-5A-ADC-LEC#3
+FRI,2,4,08:50-11:20,ADC,lab,BEE-5B,no,Engr. Sadaf Ayesha,Academic Block II Project Lab,50,19,BEE-5B-ADC-LAB#1
+FRI,2,2,08:50-09:40,AML,lecture,BEE-7A,no,Engr. Ahsan Khan,A-4 Academic Block II,50,46,BEE-7A-AML-LEC#2
+FRI,3,3,09:40-10:30,Basic Eco,lecture,BBA-5A,no,Mohd. Amjad,B-10 Academic Block II,53,44,BBA-5A-BasicEco-LEC#3
+FRI,4,4,10:30-11:20,Basic Eco,lecture,BBA-5A,no,Mohd. Amjad,B-10 Academic Block II,53,44,BBA-5A-BasicEco-LEC#1
+FRI,4,6,10:30-13:00,MPI,lab,BEE-5A,no,Engr. Areeb Ahmed,Academic Block II MPI Lab,50,20,BEE-5A-MPI-LAB#1
+FRI,4,6,10:30-13:00,CA,lab,BEE-7A,no,Engr. Muhammad Afnan,Academic Block II Electronics Lab,50,46,BEE-7A-CA-LAB#1
+FRI,6,6,12:10-13:00,FM,lecture,BBA-5A,no,Mohd. Ahsan,B-10 Academic Block II,53,44,BBA-5A-FM-LEC#2
+FRI,6,6,12:10-13:00,AT,lecture,BEE-5B,no,Engr. Asim Mehmood,A-2 Academic Block II,50,19,BEE-5B-AT-LEC#3
+FRI,7,9,13:40-16:05,Basic Eco,lab,BBA-5A,no,Moheez ur Rahim,Academic Block I LAB-3,48,44,BBA-5A-BasicEco-LAB#1
+FRI,7,7,13:40-14:30,EMT,lecture,BEE-5A+BEE-5B,no,Engr. Ahsan Khan,A-1 Academic Block II,50,39,BEE-5A+B-EMT-LEC#3
+FRI,8,8,14:30-15:20,MPI,lecture,BEE-5A+BEE-5B,no,Engr. Haris Mohsin,A-2 Academic Block II,50,39,BEE-5A+B-MPI-LEC#2
+FRI,8,8,14:30-15:20,CA,lecture,BEE-7A,no,Engr. Asim Mehmood,A-3 Academic Block II,50,46,BEE-7A-CA-LEC#2
+FRI,9,9,15:20-16:05,DC Net,lecture,BEE-5A,no,Engr. Sadaf Ayesha,A-2 Academic Block II,50,20,BEE-5A-DCNet-LEC#3
+FRI,9,9,15:20-16:05,DC Net,lecture,BEE-5B,no,Engr. Zakir Hussain,A-3 Academic Block II,50,19,BEE-5B-DCNet-LEC#3
